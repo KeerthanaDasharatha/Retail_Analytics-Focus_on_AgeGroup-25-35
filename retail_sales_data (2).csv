@@ -1,0 +1,1501 @@
+InvoiceID,CustomerID,Gender,Age,ProductCategory,ProductID,Quantity,PricePerUnit,PurchaseDate,StoreLocation,PaymentMethod,TotalPrice
+INV1000,108,Female,45,Electronics,1041,5,41.27,12-06-2023,Phoenix,Cash,206.35
+INV1001,124,Female,63,Toys,1057,5,356.31,24-02-2023,Houston,Debit Card,1781.55
+INV1002,167,Female,53,Grocery,1058,3,400.49,04-09-2023,Los Angeles,Debit Card,1201.47
+INV1003,203,Female,53,Electronics,1095,5,244.44,13-11-2023,Chicago,Credit Card,1222.2
+INV1004,187,Male,61,Electronics,1003,7,795.58,09-02-2023,Los Angeles,Debit Card,5569.06
+INV1005,179,Female,33,Furniture,1060,5,537.48,24-07-2023,Los Angeles,Credit Card,2687.4
+INV1006,276,Male,27,Furniture,1070,1,605.06,19-07-2023,Phoenix,Debit Card,605.06
+INV1007,238,Female,57,Furniture,1059,5,252.93,10-12-2023,Phoenix,Credit Card,1264.65
+INV1008,194,Female,64,Grocery,1069,5,192.08,08-08-2023,Los Angeles,Mobile Payment,960.4
+INV1009,280,Female,37,Electronics,1099,2,285.77,20-08-2023,New York,Credit Card,571.54
+INV1010,198,Male,62,Furniture,1008,5,109.37,26-04-2023,Phoenix,Credit Card,546.85
+INV1011,153,Female,23,Toys,1045,1,253.23,12-07-2023,Los Angeles,Credit Card,253.23
+INV1012,166,Male,47,Clothing,1023,1,126.22,18-04-2023,New York,Mobile Payment,126.22
+INV1013,114,Female,23,Toys,1074,4,84.52,30-10-2023,Los Angeles,Credit Card,338.08
+INV1014,134,Male,28,Clothing,1047,4,323.44,10-09-2023,Los Angeles,Credit Card,1293.76
+INV1015,124,Male,26,Furniture,1087,3,150.28,28-01-2023,Phoenix,Credit Card,450.84
+INV1016,243,Female,36,Grocery,1014,3,288.74,28-06-2023,Los Angeles,Credit Card,866.22
+INV1017,207,Male,40,Electronics,1000,3,475.21,07-08-2023,New York,Credit Card,1425.63
+INV1018,160,Male,41,Clothing,1054,5,389.71,01-10-2023,Los Angeles,Mobile Payment,1948.55
+INV1019,158,Female,43,Grocery,1001,5,268.06,06-08-2023,Chicago,Credit Card,1340.3
+INV1020,244,Male,64,Toys,1075,4,650.84,15-03-2023,New York,Credit Card,2603.36
+INV1021,237,Female,55,Clothing,1053,5,579.7,27-08-2023,Chicago,Mobile Payment,2898.5
+INV1022,193,Female,24,Electronics,1072,2,791.21,07-12-2023,New York,Credit Card,1582.42
+INV1023,186,Male,60,Toys,1078,3,503.46,04-07-2023,Phoenix,Cash,1510.38
+INV1024,230,Female,47,Grocery,1011,1,311.71,05-04-2023,New York,Mobile Payment,311.71
+INV1025,255,Female,60,Electronics,1058,10,48.33,29-05-2023,Los Angeles,Credit Card,483.3
+INV1026,208,Female,62,Grocery,1003,4,464.52,12-10-2023,New York,Cash,1858.08
+INV1027,232,Male,54,Clothing,1004,5,401.08,30-11-2023,Los Angeles,Mobile Payment,2005.4
+INV1028,259,Male,42,Electronics,1054,6,485.71,28-12-2023,Phoenix,Debit Card,2914.26
+INV1029,229,Male,58,Furniture,1015,2,300.9,21-07-2023,Phoenix,Credit Card,601.8
+INV1030,241,Male,53,Furniture,1092,3,651.38,16-02-2023,New York,Credit Card,1954.14
+INV1031,200,Male,18,Clothing,1006,4,588.74,27-07-2023,Los Angeles,Debit Card,2354.96
+INV1032,104,Female,41,Electronics,1012,4,365.69,25-09-2023,New York,Mobile Payment,1462.76
+INV1033,191,Female,29,Clothing,1038,4,555.97,29-05-2023,New York,Mobile Payment,2223.88
+INV1034,287,Female,18,Clothing,1037,5,542.25,06-06-2023,New York,Debit Card,2711.25
+INV1035,167,Female,53,Toys,1012,3,240.47,28-07-2023,Los Angeles,Credit Card,721.41
+INV1036,235,Male,61,Electronics,1067,4,609.82,18-09-2023,New York,Credit Card,2439.28
+INV1037,149,Female,54,Clothing,1062,6,377.66,26-08-2023,Los Angeles,Credit Card,2265.96
+INV1038,275,Male,49,Furniture,1095,2,392.91,29-12-2023,New York,Credit Card,785.82
+INV1039,293,Male,20,Furniture,1066,6,18.97,21-05-2023,Phoenix,Credit Card,113.82
+INV1040,161,Male,32,Clothing,1029,10,517.91,14-11-2023,Chicago,Cash,5179.1
+INV1041,114,Female,31,Clothing,1074,6,234.27,19-10-2023,New York,Debit Card,1405.62
+INV1042,283,Male,53,Electronics,1097,6,177.23,30-08-2023,New York,Credit Card,1063.38
+INV1043,299,Male,32,Clothing,1064,5,626.83,01-09-2023,New York,Debit Card,3134.15
+INV1044,180,Female,30,Clothing,1026,4,641.2,21-08-2023,Chicago,Mobile Payment,2564.8
+INV1045,102,Male,18,Electronics,1030,3,19.13,14-08-2023,Chicago,Mobile Payment,57.39
+INV1046,221,Male,51,Grocery,1074,4,75.6,21-07-2023,Chicago,Mobile Payment,302.4
+INV1047,205,Female,46,Grocery,1000,9,322.13,13-04-2023,New York,Debit Card,2899.17
+INV1048,247,Female,62,Electronics,1093,2,239.35,09-02-2023,New York,Cash,478.7
+INV1049,163,Male,21,Clothing,1079,9,181.53,03-08-2023,Los Angeles,Cash,1633.77
+INV1050,281,Female,30,Grocery,1033,4,515.25,19-08-2023,Chicago,Cash,2061
+INV1051,127,Male,59,Furniture,1093,2,415.72,17-09-2023,Phoenix,Mobile Payment,831.44
+INV1052,156,Male,30,Grocery,1079,8,749.45,17-05-2023,New York,Credit Card,5995.6
+INV1053,213,Male,60,Toys,1007,3,633.45,14-03-2023,Houston,Cash,1900.35
+INV1054,258,Female,45,Electronics,1053,6,214.72,29-08-2023,New York,Debit Card,1288.32
+INV1055,276,Male,45,Electronics,1095,7,289.21,22-01-2023,Chicago,Credit Card,2024.47
+INV1056,147,Female,20,Electronics,1047,4,247.63,25-11-2023,Los Angeles,Credit Card,990.52
+INV1057,267,Male,62,Grocery,1060,7,551.88,18-01-2023,Houston,Mobile Payment,3863.16
+INV1058,209,Male,28,Grocery,1078,3,492.58,10-04-2023,Los Angeles,Credit Card,1477.74
+INV1059,138,Male,63,Clothing,1036,3,276.76,19-05-2023,Los Angeles,Debit Card,830.28
+INV1060,272,Male,49,Grocery,1008,4,269.33,10-02-2023,Chicago,Debit Card,1077.32
+INV1061,118,Female,50,Clothing,1002,3,157.2,05-08-2023,Los Angeles,Credit Card,471.6
+INV1062,292,Female,59,Furniture,1033,4,102.21,30-05-2023,New York,Mobile Payment,408.84
+INV1063,284,Male,21,Furniture,1028,5,435.8,25-02-2023,Los Angeles,Cash,2179
+INV1064,262,Male,22,Clothing,1002,3,25.41,17-11-2023,Los Angeles,Credit Card,76.23
+INV1065,281,Male,42,Clothing,1019,5,26.61,05-06-2023,Los Angeles,Credit Card,133.05
+INV1066,117,Female,57,Electronics,1004,6,312.46,24-02-2023,Houston,Credit Card,1874.76
+INV1067,172,Male,30,Furniture,1067,3,322.81,06-04-2023,Los Angeles,Cash,968.43
+INV1068,113,Female,59,Grocery,1084,8,526.12,06-07-2023,Los Angeles,Credit Card,4208.96
+INV1069,206,Male,53,Clothing,1006,3,330.13,10-07-2023,New York,Mobile Payment,990.39
+INV1070,130,Male,31,Toys,1098,5,695,19-06-2023,New York,Credit Card,3475
+INV1071,117,Male,38,Electronics,1043,3,467.75,08-09-2023,Houston,Mobile Payment,1403.25
+INV1072,153,Male,59,Grocery,1052,1,453.27,17-06-2023,Los Angeles,Credit Card,453.27
+INV1073,168,Male,23,Clothing,1093,4,406.4,12-12-2023,Chicago,Credit Card,1625.6
+INV1074,278,Female,32,Furniture,1070,4,218.23,11-05-2023,New York,Credit Card,872.92
+INV1075,191,Female,47,Clothing,1026,6,164.93,24-03-2023,Los Angeles,Credit Card,989.58
+INV1076,281,Male,46,Grocery,1042,2,62.18,10-03-2023,New York,Cash,124.36
+INV1077,178,Male,53,Electronics,1078,4,181.34,25-04-2023,Chicago,Credit Card,725.36
+INV1078,100,Male,34,Clothing,1008,5,719.47,21-06-2023,Los Angeles,Mobile Payment,3597.35
+INV1079,113,Male,43,Clothing,1041,3,706.63,16-08-2023,Los Angeles,Cash,2119.89
+INV1080,285,Male,32,Grocery,1035,7,738.64,31-01-2023,New York,Mobile Payment,5170.48
+INV1081,206,Female,36,Electronics,1011,5,391.51,23-04-2023,Chicago,Mobile Payment,1957.55
+INV1082,231,Female,53,Grocery,1090,1,460.57,17-05-2023,New York,Credit Card,460.57
+INV1083,170,Female,41,Electronics,1061,7,242.57,28-01-2023,Chicago,Debit Card,1697.99
+INV1084,231,Female,55,Electronics,1087,2,621.31,12-10-2023,Los Angeles,Credit Card,1242.62
+INV1085,238,Female,59,Furniture,1065,3,406.1,27-08-2023,Los Angeles,Credit Card,1218.3
+INV1086,288,Female,49,Electronics,1047,5,731.38,07-07-2023,Houston,Credit Card,3656.9
+INV1087,231,Male,18,Clothing,1019,4,60.96,24-07-2023,Houston,Credit Card,243.84
+INV1088,205,Female,33,Grocery,1055,3,88.71,13-06-2023,New York,Mobile Payment,266.13
+INV1089,276,Female,29,Grocery,1059,7,321.9,07-12-2023,New York,Cash,2253.3
+INV1090,280,Male,42,Electronics,1063,5,127.42,14-11-2023,Los Angeles,Mobile Payment,637.1
+INV1091,143,Female,22,Grocery,1049,3,40.66,15-03-2023,Houston,Credit Card,121.98
+INV1092,136,Male,21,Grocery,1023,4,19.35,29-03-2023,Chicago,Credit Card,77.4
+INV1093,105,Female,34,Clothing,1005,2,776.65,01-01-2023,Chicago,Credit Card,1553.3
+INV1094,171,Male,33,Grocery,1073,6,118.99,05-05-2023,Phoenix,Cash,713.94
+INV1095,138,Female,24,Clothing,1004,8,774.23,17-08-2023,Los Angeles,Mobile Payment,6193.84
+INV1096,194,Male,42,Clothing,1024,3,388.7,27-10-2023,Los Angeles,Credit Card,1166.1
+INV1097,270,Female,48,Clothing,1004,4,249.92,25-11-2023,Los Angeles,Credit Card,999.68
+INV1098,184,Female,63,Electronics,1044,6,759.97,02-08-2023,Houston,Cash,4559.82
+INV1099,195,Male,29,Electronics,1048,2,48.89,14-05-2023,Los Angeles,Credit Card,97.78
+INV1100,214,Female,56,Electronics,1008,4,323.73,04-10-2023,Los Angeles,Credit Card,1294.92
+INV1101,219,Female,44,Electronics,1014,3,696.34,13-09-2023,Los Angeles,Mobile Payment,2089.02
+INV1102,176,Male,50,Clothing,1095,10,483.21,01-02-2023,Phoenix,Credit Card,4832.1
+INV1103,133,Male,25,Grocery,1041,7,731.57,26-09-2023,New York,Credit Card,5120.99
+INV1104,158,Female,30,Clothing,1003,2,470.34,30-08-2023,Chicago,Credit Card,940.68
+INV1105,202,Male,58,Clothing,1046,5,748.24,08-02-2023,Houston,Credit Card,3741.2
+INV1106,270,Male,51,Grocery,1023,5,626.62,13-10-2023,Houston,Credit Card,3133.1
+INV1107,250,Male,57,Grocery,1076,3,72.31,18-09-2023,Phoenix,Credit Card,216.93
+INV1108,100,Female,27,Electronics,1043,6,273.88,21-08-2023,Los Angeles,Credit Card,1643.28
+INV1109,283,Male,27,Electronics,1009,2,124.22,12-10-2023,Houston,Cash,248.44
+INV1110,247,Male,47,Toys,1057,5,741.02,15-01-2023,New York,Cash,3705.1
+INV1111,153,Female,19,Grocery,1041,9,97.79,18-03-2023,Houston,Mobile Payment,880.11
+INV1112,296,Female,30,Electronics,1093,3,468.07,13-10-2023,Los Angeles,Credit Card,1404.21
+INV1113,290,Female,51,Grocery,1072,6,404.27,15-11-2023,New York,Debit Card,2425.62
+INV1114,150,Female,50,Grocery,1056,3,774.58,18-05-2023,New York,Credit Card,2323.74
+INV1115,296,Female,38,Electronics,1001,4,329.53,25-07-2023,Los Angeles,Mobile Payment,1318.12
+INV1116,263,Female,62,Clothing,1096,4,669.16,05-12-2023,Houston,Credit Card,2676.64
+INV1117,251,Female,41,Toys,1098,2,134.11,02-03-2023,Los Angeles,Debit Card,268.22
+INV1118,109,Male,35,Toys,1031,2,270.7,08-08-2023,New York,Credit Card,541.4
+INV1119,276,Female,31,Electronics,1078,3,324.81,24-05-2023,New York,Cash,974.43
+INV1120,121,Female,35,Electronics,1045,3,605.95,03-04-2023,New York,Cash,1817.85
+INV1121,253,Female,50,Grocery,1096,6,141.85,12-04-2023,New York,Cash,851.1
+INV1122,282,Female,55,Clothing,1094,6,298.4,05-04-2023,Chicago,Debit Card,1790.4
+INV1123,106,Female,47,Electronics,1069,3,612.77,18-04-2023,Los Angeles,Cash,1838.31
+INV1124,265,Female,25,Furniture,1012,3,570.65,29-06-2023,Los Angeles,Credit Card,1711.95
+INV1125,202,Male,53,Clothing,1025,1,378.04,02-12-2023,Los Angeles,Cash,378.04
+INV1126,222,Female,36,Toys,1060,4,513.7,31-03-2023,Los Angeles,Credit Card,2054.8
+INV1127,216,Male,36,Grocery,1065,2,164.83,11-08-2023,Houston,Credit Card,329.66
+INV1128,286,Female,46,Electronics,1052,4,543.27,24-11-2023,Houston,Credit Card,2173.08
+INV1129,139,Male,21,Electronics,1051,5,359.48,13-06-2023,Chicago,Debit Card,1797.4
+INV1130,207,Male,28,Grocery,1001,5,738.72,24-12-2023,Los Angeles,Debit Card,3693.6
+INV1131,151,Male,23,Clothing,1001,2,521.52,27-04-2023,Los Angeles,Credit Card,1043.04
+INV1132,130,Male,49,Grocery,1032,6,539.57,11-12-2023,Los Angeles,Credit Card,3237.42
+INV1133,221,Male,38,Grocery,1097,2,696.5,21-04-2023,Houston,Mobile Payment,1393
+INV1134,166,Female,38,Grocery,1031,4,147.2,31-03-2023,New York,Credit Card,588.8
+INV1135,252,Male,60,Furniture,1005,3,779.28,11-12-2023,Los Angeles,Credit Card,2337.84
+INV1136,283,Female,52,Toys,1074,5,353.01,08-07-2023,Los Angeles,Cash,1765.05
+INV1137,117,Male,24,Clothing,1071,1,392.54,01-07-2023,Los Angeles,Debit Card,392.54
+INV1138,145,Male,45,Clothing,1031,4,748.74,23-10-2023,New York,Cash,2994.96
+INV1139,189,Female,61,Furniture,1010,8,574.63,26-11-2023,New York,Mobile Payment,4597.04
+INV1140,273,Female,22,Electronics,1001,2,281.67,11-08-2023,Chicago,Cash,563.34
+INV1141,135,Female,55,Clothing,1024,6,274.93,11-01-2023,Los Angeles,Credit Card,1649.58
+INV1142,116,Female,39,Grocery,1078,6,473.92,06-01-2023,New York,Mobile Payment,2843.52
+INV1143,112,Male,39,Electronics,1016,4,179.77,06-12-2023,Houston,Credit Card,719.08
+INV1144,186,Male,57,Furniture,1034,9,719.47,11-03-2023,Chicago,Mobile Payment,6475.23
+INV1145,209,Male,46,Grocery,1077,5,748.14,26-07-2023,New York,Cash,3740.7
+INV1146,167,Female,63,Electronics,1003,5,766.96,09-05-2023,Phoenix,Credit Card,3834.8
+INV1147,120,Female,31,Furniture,1032,4,137.18,01-10-2023,Los Angeles,Mobile Payment,548.72
+INV1148,238,Female,33,Grocery,1049,3,473.42,14-12-2023,New York,Cash,1420.26
+INV1149,108,Male,27,Furniture,1000,1,440.35,13-09-2023,Los Angeles,Debit Card,440.35
+INV1150,258,Female,29,Clothing,1046,3,756.01,28-10-2023,Los Angeles,Credit Card,2268.03
+INV1151,240,Male,56,Furniture,1088,4,148.71,27-07-2023,Chicago,Debit Card,594.84
+INV1152,246,Female,23,Electronics,1099,3,179.61,14-04-2023,Los Angeles,Credit Card,538.83
+INV1153,193,Female,32,Clothing,1050,4,378.43,19-06-2023,Los Angeles,Credit Card,1513.72
+INV1154,219,Female,19,Electronics,1074,2,462.46,26-08-2023,Chicago,Cash,924.92
+INV1155,192,Female,40,Electronics,1053,4,308.46,13-05-2023,New York,Credit Card,1233.84
+INV1156,144,Female,21,Grocery,1047,3,546.77,05-09-2023,Chicago,Credit Card,1640.31
+INV1157,157,Female,42,Electronics,1069,3,49.33,20-09-2023,New York,Credit Card,147.99
+INV1158,227,Male,46,Clothing,1009,4,461.94,01-11-2023,Los Angeles,Debit Card,1847.76
+INV1159,100,Male,21,Furniture,1022,4,289.69,19-07-2023,Phoenix,Cash,1158.76
+INV1160,173,Male,44,Electronics,1034,2,484.86,14-12-2023,Chicago,Mobile Payment,969.72
+INV1161,282,Male,29,Clothing,1078,4,394.82,14-09-2023,Phoenix,Mobile Payment,1579.28
+INV1162,166,Male,34,Toys,1053,3,487.9,23-01-2023,New York,Credit Card,1463.7
+INV1163,244,Female,31,Furniture,1069,7,668.24,16-01-2023,Los Angeles,Mobile Payment,4677.68
+INV1164,233,Female,53,Clothing,1013,5,120.18,22-01-2023,New York,Credit Card,600.9
+INV1165,279,Female,39,Electronics,1087,9,457.82,08-05-2023,Chicago,Credit Card,4120.38
+INV1166,190,Female,59,Electronics,1041,3,483.19,29-04-2023,Los Angeles,Credit Card,1449.57
+INV1167,134,Female,56,Furniture,1012,6,453.32,21-04-2023,Houston,Credit Card,2719.92
+INV1168,295,Female,47,Furniture,1076,3,326.21,31-07-2023,New York,Credit Card,978.63
+INV1169,194,Male,31,Electronics,1089,6,184.95,29-12-2023,Los Angeles,Cash,1109.7
+INV1170,282,Female,40,Electronics,1032,3,717.26,24-04-2023,Los Angeles,Credit Card,2151.78
+INV1171,177,Male,49,Grocery,1050,2,712,13-10-2023,Chicago,Credit Card,1424
+INV1172,229,Male,59,Furniture,1023,4,291.92,27-05-2023,Houston,Credit Card,1167.68
+INV1173,114,Female,63,Grocery,1083,4,470.73,26-06-2023,New York,Mobile Payment,1882.92
+INV1174,215,Female,21,Toys,1078,4,539.65,29-09-2023,New York,Debit Card,2158.6
+INV1175,133,Female,56,Furniture,1083,3,241.41,14-07-2023,New York,Cash,724.23
+INV1176,248,Female,22,Toys,1039,3,135.61,28-12-2023,New York,Mobile Payment,406.83
+INV1177,268,Female,51,Grocery,1035,1,311.35,21-06-2023,New York,Credit Card,311.35
+INV1178,124,Male,58,Clothing,1023,2,648.3,10-09-2023,New York,Credit Card,1296.6
+INV1179,286,Female,46,Clothing,1016,3,729.12,29-07-2023,Los Angeles,Credit Card,2187.36
+INV1180,128,Female,37,Electronics,1002,2,418.57,26-12-2023,Los Angeles,Cash,837.14
+INV1181,235,Female,64,Clothing,1033,4,403.75,22-05-2023,Chicago,Credit Card,1615
+INV1182,102,Male,55,Electronics,1042,4,569.8,10-02-2023,Houston,Credit Card,2279.2
+INV1183,163,Female,24,Clothing,1010,5,347.13,13-05-2023,Phoenix,Debit Card,1735.65
+INV1184,213,Male,28,Clothing,1007,5,676.76,19-02-2023,New York,Cash,3383.8
+INV1185,230,Female,29,Electronics,1034,5,43.78,27-04-2023,Los Angeles,Debit Card,218.9
+INV1186,245,Female,36,Clothing,1034,3,520.4,07-07-2023,New York,Credit Card,1561.2
+INV1187,174,Male,40,Electronics,1039,5,417.16,28-06-2023,New York,Debit Card,2085.8
+INV1188,281,Female,44,Clothing,1017,2,19.18,14-07-2023,Chicago,Credit Card,38.36
+INV1189,130,Male,34,Clothing,1073,4,522.22,28-09-2023,Phoenix,Mobile Payment,2088.88
+INV1190,167,Female,55,Grocery,1013,4,767.93,05-11-2023,Chicago,Credit Card,3071.72
+INV1191,256,Male,44,Clothing,1050,4,386.83,28-10-2023,Los Angeles,Mobile Payment,1547.32
+INV1192,265,Male,55,Grocery,1087,7,635.08,07-04-2023,Phoenix,Cash,4445.56
+INV1193,182,Male,35,Grocery,1062,2,241.55,30-06-2023,Chicago,Credit Card,483.1
+INV1194,245,Female,42,Furniture,1053,5,42.33,11-03-2023,Phoenix,Debit Card,211.65
+INV1195,238,Female,24,Furniture,1012,4,628.93,31-12-2023,Los Angeles,Cash,2515.72
+INV1196,241,Female,37,Toys,1081,4,303.22,11-01-2023,Chicago,Cash,1212.88
+INV1197,181,Female,60,Grocery,1093,4,694.79,28-01-2023,Houston,Debit Card,2779.16
+INV1198,217,Female,51,Toys,1071,4,75.06,17-11-2023,Los Angeles,Credit Card,300.24
+INV1199,125,Male,50,Clothing,1060,3,224.37,22-12-2023,Phoenix,Debit Card,673.11
+INV1200,294,Male,54,Clothing,1013,4,486.02,11-11-2023,New York,Cash,1944.08
+INV1201,243,Female,19,Grocery,1052,4,693.24,29-03-2023,New York,Credit Card,2772.96
+INV1202,208,Female,41,Toys,1072,5,63.72,02-09-2023,Los Angeles,Cash,318.6
+INV1203,222,Female,57,Grocery,1053,3,98.68,29-09-2023,New York,Credit Card,296.04
+INV1204,111,Male,53,Electronics,1092,6,180.34,08-07-2023,Chicago,Debit Card,1082.04
+INV1205,201,Male,54,Electronics,1007,5,354.51,06-12-2023,Los Angeles,Credit Card,1772.55
+INV1206,138,Female,50,Electronics,1047,4,422.78,30-04-2023,New York,Credit Card,1691.12
+INV1207,216,Male,20,Toys,1005,5,423.6,29-01-2023,Houston,Credit Card,2118
+INV1208,122,Male,45,Toys,1089,3,528.99,16-10-2023,Los Angeles,Credit Card,1586.97
+INV1209,155,Male,37,Electronics,1039,3,773.94,02-03-2023,New York,Mobile Payment,2321.82
+INV1210,157,Male,45,Electronics,1013,2,362.48,13-07-2023,New York,Mobile Payment,724.96
+INV1211,187,Female,23,Clothing,1080,2,109.17,11-12-2023,New York,Credit Card,218.34
+INV1212,279,Female,23,Electronics,1035,2,672.8,02-02-2023,Houston,Credit Card,1345.6
+INV1213,276,Male,27,Furniture,1044,3,671.98,06-10-2023,Los Angeles,Credit Card,2015.94
+INV1214,281,Male,48,Electronics,1066,2,431.91,02-01-2023,Houston,Mobile Payment,863.82
+INV1215,245,Male,35,Electronics,1031,6,696.56,30-09-2023,New York,Credit Card,4179.36
+INV1216,293,Female,35,Grocery,1037,8,478.86,25-10-2023,Los Angeles,Mobile Payment,3830.88
+INV1217,142,Female,49,Electronics,1088,1,489.63,31-05-2023,Los Angeles,Credit Card,489.63
+INV1218,193,Female,59,Grocery,1004,6,644.12,30-04-2023,Chicago,Credit Card,3864.72
+INV1219,272,Male,30,Electronics,1064,4,353.16,16-08-2023,New York,Credit Card,1412.64
+INV1220,244,Male,28,Grocery,1043,3,463.41,17-10-2023,Phoenix,Cash,1390.23
+INV1221,151,Male,31,Electronics,1065,5,330.27,03-01-2023,Houston,Debit Card,1651.35
+INV1222,282,Female,27,Clothing,1077,8,82.78,05-10-2023,New York,Cash,662.24
+INV1223,283,Male,36,Furniture,1099,7,214.41,16-12-2023,New York,Credit Card,1500.87
+INV1224,183,Male,36,Furniture,1000,3,76.89,08-12-2023,Los Angeles,Credit Card,230.67
+INV1225,200,Female,28,Grocery,1067,2,211.61,05-07-2023,Los Angeles,Credit Card,423.22
+INV1226,142,Male,52,Clothing,1062,4,307.53,22-10-2023,New York,Credit Card,1230.12
+INV1227,289,Male,36,Grocery,1089,3,27.6,10-07-2023,New York,Mobile Payment,82.8
+INV1228,137,Male,38,Electronics,1027,5,236.89,23-01-2023,Chicago,Credit Card,1184.45
+INV1229,212,Female,30,Clothing,1004,5,232.84,05-05-2023,Los Angeles,Debit Card,1164.2
+INV1230,213,Male,52,Furniture,1055,6,156.31,07-04-2023,Houston,Cash,937.86
+INV1231,199,Male,26,Grocery,1010,5,503.33,19-08-2023,New York,Mobile Payment,2516.65
+INV1232,102,Male,63,Clothing,1082,4,621.93,20-08-2023,New York,Credit Card,2487.72
+INV1233,162,Male,20,Grocery,1022,4,164.63,18-10-2023,Chicago,Credit Card,658.52
+INV1234,199,Male,32,Clothing,1032,6,601.08,17-03-2023,Los Angeles,Credit Card,3606.48
+INV1235,116,Male,58,Grocery,1085,2,348.81,27-01-2023,Los Angeles,Mobile Payment,697.62
+INV1236,170,Male,24,Grocery,1044,4,597.59,14-03-2023,New York,Credit Card,2390.36
+INV1237,153,Female,62,Clothing,1092,3,532.39,27-04-2023,Chicago,Cash,1597.17
+INV1238,275,Female,28,Toys,1010,4,567.79,09-05-2023,Los Angeles,Credit Card,2271.16
+INV1239,276,Female,34,Toys,1067,4,71.3,07-12-2023,Los Angeles,Debit Card,285.2
+INV1240,237,Male,57,Furniture,1037,5,572.25,22-06-2023,Phoenix,Cash,2861.25
+INV1241,277,Male,47,Grocery,1027,4,504.62,14-03-2023,Houston,Debit Card,2018.48
+INV1242,153,Male,25,Clothing,1005,2,522.52,25-03-2023,New York,Debit Card,1045.04
+INV1243,211,Female,39,Furniture,1030,5,381.01,27-09-2023,Houston,Mobile Payment,1905.05
+INV1244,262,Male,37,Toys,1052,4,515.83,14-05-2023,Chicago,Mobile Payment,2063.32
+INV1245,231,Female,64,Grocery,1062,6,579.48,01-10-2023,Chicago,Cash,3476.88
+INV1246,202,Male,21,Grocery,1080,5,230.42,16-12-2023,Los Angeles,Debit Card,1152.1
+INV1247,239,Male,31,Grocery,1099,6,292.4,04-04-2023,Chicago,Debit Card,1754.4
+INV1248,149,Male,41,Electronics,1071,5,341.97,25-05-2023,Chicago,Credit Card,1709.85
+INV1249,129,Male,52,Electronics,1058,7,257.54,18-11-2023,Chicago,Cash,1802.78
+INV1250,136,Male,24,Toys,1079,2,696.18,18-04-2023,New York,Cash,1392.36
+INV1251,193,Male,18,Clothing,1038,2,593.56,16-11-2023,New York,Cash,1187.12
+INV1252,295,Male,52,Electronics,1003,3,328.67,07-11-2023,Los Angeles,Debit Card,986.01
+INV1253,254,Male,27,Grocery,1007,2,121.22,29-11-2023,Los Angeles,Debit Card,242.44
+INV1254,213,Female,47,Grocery,1027,4,665.91,08-06-2023,Houston,Cash,2663.64
+INV1255,152,Female,37,Clothing,1094,6,348.07,12-04-2023,Chicago,Credit Card,2088.42
+INV1256,264,Female,53,Electronics,1001,7,628.81,15-09-2023,Chicago,Debit Card,4401.67
+INV1257,259,Male,60,Electronics,1082,5,364.21,12-11-2023,Phoenix,Credit Card,1821.05
+INV1258,185,Male,43,Furniture,1092,4,443.48,21-08-2023,New York,Cash,1773.92
+INV1259,192,Female,60,Furniture,1088,3,622.85,02-01-2023,Los Angeles,Credit Card,1868.55
+INV1260,215,Female,47,Electronics,1049,5,295.15,20-09-2023,Los Angeles,Credit Card,1475.75
+INV1261,226,Male,38,Clothing,1024,6,499.05,09-09-2023,New York,Credit Card,2994.3
+INV1262,168,Female,57,Toys,1004,5,344.31,25-10-2023,Los Angeles,Cash,1721.55
+INV1263,219,Male,52,Electronics,1081,3,662.62,31-10-2023,Los Angeles,Credit Card,1987.86
+INV1264,171,Female,58,Clothing,1083,2,106.86,08-03-2023,Phoenix,Debit Card,213.72
+INV1265,161,Female,42,Furniture,1093,3,463.93,19-06-2023,Houston,Credit Card,1391.79
+INV1266,193,Male,59,Furniture,1043,6,317.35,26-04-2023,New York,Credit Card,1904.1
+INV1267,136,Female,24,Electronics,1037,5,455.82,08-03-2023,Chicago,Credit Card,2279.1
+INV1268,223,Female,29,Furniture,1005,3,338.47,04-05-2023,New York,Cash,1015.41
+INV1269,142,Male,30,Electronics,1023,2,261.21,23-10-2023,Los Angeles,Credit Card,522.42
+INV1270,113,Male,21,Electronics,1039,5,656.57,19-01-2023,Chicago,Cash,3282.85
+INV1271,148,Female,18,Electronics,1074,1,661.91,17-12-2023,Los Angeles,Cash,661.91
+INV1272,132,Male,56,Furniture,1010,3,340.56,18-07-2023,New York,Credit Card,1021.68
+INV1273,138,Female,51,Grocery,1067,4,725.87,24-07-2023,Chicago,Debit Card,2903.48
+INV1274,140,Female,63,Clothing,1043,3,347.11,16-09-2023,Phoenix,Mobile Payment,1041.33
+INV1275,281,Male,41,Furniture,1025,2,214.5,11-03-2023,New York,Credit Card,429
+INV1276,193,Male,36,Clothing,1023,3,616.41,30-10-2023,Chicago,Mobile Payment,1849.23
+INV1277,242,Male,49,Grocery,1066,2,159.61,15-03-2023,Los Angeles,Credit Card,319.22
+INV1278,138,Female,57,Electronics,1053,7,675.6,16-10-2023,Phoenix,Credit Card,4729.2
+INV1279,216,Female,51,Grocery,1013,4,229.24,26-03-2023,New York,Debit Card,916.96
+INV1280,265,Female,62,Clothing,1055,6,195.36,18-10-2023,Phoenix,Cash,1172.16
+INV1281,228,Male,49,Electronics,1040,1,171.81,14-07-2023,Phoenix,Mobile Payment,171.81
+INV1282,204,Female,23,Electronics,1065,3,206.56,06-12-2023,Phoenix,Debit Card,619.68
+INV1283,287,Male,46,Grocery,1019,8,498.88,14-04-2023,Chicago,Cash,3991.04
+INV1284,204,Male,44,Furniture,1070,2,115.27,29-10-2023,Phoenix,Credit Card,230.54
+INV1285,201,Male,49,Grocery,1071,5,197.23,06-05-2023,New York,Cash,986.15
+INV1286,141,Female,53,Furniture,1049,4,278.05,17-02-2023,Los Angeles,Credit Card,1112.2
+INV1287,272,Male,25,Furniture,1017,2,482.46,23-10-2023,Los Angeles,Debit Card,964.92
+INV1288,247,Male,53,Grocery,1056,3,251.41,25-12-2023,Chicago,Credit Card,754.23
+INV1289,166,Male,35,Toys,1032,2,789.73,08-01-2023,Los Angeles,Debit Card,1579.46
+INV1290,241,Male,43,Electronics,1076,4,508.3,24-06-2023,Phoenix,Cash,2033.2
+INV1291,187,Male,46,Furniture,1094,5,266.74,28-07-2023,New York,Debit Card,1333.7
+INV1292,165,Male,37,Grocery,1007,3,44.95,22-07-2023,Houston,Cash,134.85
+INV1293,168,Male,19,Clothing,1080,4,213.46,26-04-2023,Los Angeles,Credit Card,853.84
+INV1294,282,Male,21,Clothing,1082,4,443.41,28-01-2023,New York,Credit Card,1773.64
+INV1295,228,Female,38,Grocery,1091,2,428.66,25-04-2023,New York,Debit Card,857.32
+INV1296,187,Male,47,Electronics,1044,3,221.11,07-06-2023,Los Angeles,Debit Card,663.33
+INV1297,183,Female,30,Electronics,1091,4,361.69,19-03-2023,Los Angeles,Debit Card,1446.76
+INV1298,110,Female,34,Furniture,1060,3,703.91,08-04-2023,Los Angeles,Debit Card,2111.73
+INV1299,165,Female,64,Grocery,1077,4,143.46,21-01-2023,Phoenix,Credit Card,573.84
+INV1300,230,Female,41,Electronics,1023,4,165.21,16-03-2023,Los Angeles,Credit Card,660.84
+INV1301,139,Male,60,Electronics,1034,6,593.55,19-05-2023,Los Angeles,Mobile Payment,3561.3
+INV1302,136,Female,44,Furniture,1031,4,492.99,05-05-2023,New York,Credit Card,1971.96
+INV1303,135,Female,34,Grocery,1052,7,537.01,26-04-2023,Chicago,Mobile Payment,3759.07
+INV1304,199,Female,63,Clothing,1093,6,307.17,23-07-2023,Chicago,Cash,1843.02
+INV1305,126,Female,27,Electronics,1065,4,23.19,22-06-2023,Phoenix,Credit Card,92.76
+INV1306,247,Male,55,Toys,1066,8,14.37,14-02-2023,New York,Mobile Payment,114.96
+INV1307,232,Female,46,Electronics,1043,4,571.83,15-07-2023,Chicago,Mobile Payment,2287.32
+INV1308,139,Male,43,Clothing,1075,5,754.36,08-06-2023,Houston,Cash,3771.8
+INV1309,174,Female,43,Electronics,1071,5,702.74,04-05-2023,New York,Debit Card,3513.7
+INV1310,152,Female,40,Electronics,1067,3,229.45,17-09-2023,Los Angeles,Debit Card,688.35
+INV1311,272,Male,64,Grocery,1046,5,309.58,31-08-2023,Houston,Mobile Payment,1547.9
+INV1312,241,Male,24,Furniture,1041,3,135.03,11-10-2023,Los Angeles,Debit Card,405.09
+INV1313,261,Male,38,Electronics,1040,5,362.99,26-01-2023,Houston,Cash,1814.95
+INV1314,243,Female,21,Furniture,1026,3,397.51,18-08-2023,Houston,Credit Card,1192.53
+INV1315,245,Female,22,Electronics,1000,3,379.86,26-04-2023,Los Angeles,Credit Card,1139.58
+INV1316,188,Male,59,Electronics,1084,3,538.65,03-06-2023,Los Angeles,Credit Card,1615.95
+INV1317,251,Male,39,Clothing,1047,3,750.44,21-03-2023,Chicago,Mobile Payment,2251.32
+INV1318,159,Male,46,Furniture,1053,3,158.8,15-01-2023,Chicago,Cash,476.4
+INV1319,108,Male,25,Grocery,1069,5,786.82,15-08-2023,Los Angeles,Credit Card,3934.1
+INV1320,268,Male,61,Clothing,1074,4,369.15,09-03-2023,Los Angeles,Debit Card,1476.6
+INV1321,177,Male,57,Electronics,1051,7,169.47,12-07-2023,Chicago,Credit Card,1186.29
+INV1322,147,Female,47,Electronics,1003,3,277.63,04-03-2023,New York,Debit Card,832.89
+INV1323,273,Male,39,Grocery,1073,2,257.38,10-02-2023,Chicago,Credit Card,514.76
+INV1324,125,Female,45,Electronics,1016,7,113.82,11-04-2023,Chicago,Mobile Payment,796.74
+INV1325,212,Female,42,Grocery,1079,9,249.22,10-08-2023,New York,Credit Card,2242.98
+INV1326,259,Female,53,Grocery,1005,4,643.76,25-05-2023,Chicago,Cash,2575.04
+INV1327,110,Male,36,Electronics,1099,3,510.46,14-01-2023,Phoenix,Credit Card,1531.38
+INV1328,138,Male,38,Electronics,1050,3,466.85,09-09-2023,New York,Credit Card,1400.55
+INV1329,201,Female,21,Grocery,1095,3,420.19,14-11-2023,Los Angeles,Mobile Payment,1260.57
+INV1330,160,Male,54,Toys,1075,3,283.37,29-03-2023,Phoenix,Cash,850.11
+INV1331,245,Female,48,Grocery,1085,4,711.95,24-05-2023,New York,Cash,2847.8
+INV1332,115,Female,28,Grocery,1034,3,184.6,19-05-2023,New York,Cash,553.8
+INV1333,185,Female,53,Electronics,1094,2,782.37,19-08-2023,Los Angeles,Mobile Payment,1564.74
+INV1334,217,Female,40,Electronics,1038,3,641.56,02-06-2023,Houston,Credit Card,1924.68
+INV1335,247,Female,44,Clothing,1075,7,589.92,17-06-2023,Los Angeles,Cash,4129.44
+INV1336,248,Male,22,Toys,1065,2,501.07,23-06-2023,Houston,Credit Card,1002.14
+INV1337,231,Male,64,Electronics,1020,4,463.71,21-11-2023,New York,Debit Card,1854.84
+INV1338,201,Male,35,Furniture,1083,4,174,27-03-2023,New York,Cash,696
+INV1339,287,Male,62,Clothing,1027,2,745.56,25-02-2023,Chicago,Credit Card,1491.12
+INV1340,111,Male,41,Electronics,1066,4,339.58,20-07-2023,Los Angeles,Credit Card,1358.32
+INV1341,212,Female,31,Grocery,1072,6,400.63,01-04-2023,Los Angeles,Cash,2403.78
+INV1342,148,Male,40,Toys,1063,5,128.84,25-12-2023,Houston,Debit Card,644.2
+INV1343,234,Female,22,Grocery,1081,4,207.15,18-12-2023,Chicago,Credit Card,828.6
+INV1344,245,Male,21,Clothing,1086,4,518.49,12-02-2023,New York,Cash,2073.96
+INV1345,205,Female,35,Grocery,1025,7,198.71,25-08-2023,New York,Credit Card,1390.97
+INV1346,286,Female,50,Grocery,1012,5,367.52,26-11-2023,Phoenix,Credit Card,1837.6
+INV1347,100,Female,20,Grocery,1047,5,328.43,03-01-2023,Chicago,Credit Card,1642.15
+INV1348,279,Male,25,Toys,1096,5,478.51,26-10-2023,Los Angeles,Debit Card,2392.55
+INV1349,221,Female,55,Electronics,1072,2,180.12,13-03-2023,Chicago,Credit Card,360.24
+INV1350,223,Female,28,Toys,1006,7,778.94,20-09-2023,New York,Credit Card,5452.58
+INV1351,258,Female,33,Furniture,1021,3,386.73,11-04-2023,Los Angeles,Credit Card,1160.19
+INV1352,210,Male,26,Grocery,1082,3,706,07-03-2023,Los Angeles,Credit Card,2118
+INV1353,127,Female,27,Electronics,1030,3,176.34,25-12-2023,Phoenix,Debit Card,529.02
+INV1354,170,Male,41,Clothing,1054,2,199.63,16-01-2023,Phoenix,Credit Card,399.26
+INV1355,281,Female,31,Electronics,1013,8,550.45,25-08-2023,Houston,Mobile Payment,4403.6
+INV1356,201,Male,37,Clothing,1085,4,416.18,29-08-2023,Phoenix,Cash,1664.72
+INV1357,267,Female,21,Electronics,1038,5,527.2,03-02-2023,New York,Mobile Payment,2636
+INV1358,279,Female,64,Clothing,1058,3,562.78,23-03-2023,Los Angeles,Credit Card,1688.34
+INV1359,145,Male,19,Grocery,1068,2,180.35,19-01-2023,New York,Credit Card,360.7
+INV1360,139,Female,62,Clothing,1034,5,143.88,26-02-2023,Chicago,Credit Card,719.4
+INV1361,188,Male,22,Furniture,1098,2,198.06,08-02-2023,Houston,Credit Card,396.12
+INV1362,278,Male,19,Grocery,1056,2,75.55,22-07-2023,Chicago,Mobile Payment,151.1
+INV1363,274,Male,19,Toys,1070,4,434.42,25-03-2023,Los Angeles,Credit Card,1737.68
+INV1364,160,Male,60,Grocery,1058,7,758.18,26-10-2023,New York,Debit Card,5307.26
+INV1365,297,Female,60,Clothing,1028,4,624.94,28-07-2023,Los Angeles,Credit Card,2499.76
+INV1366,180,Female,44,Electronics,1003,4,577.75,17-10-2023,New York,Cash,2311
+INV1367,221,Female,41,Grocery,1039,6,333.51,12-09-2023,New York,Credit Card,2001.06
+INV1368,134,Female,38,Grocery,1050,4,387.87,10-01-2023,Chicago,Credit Card,1551.48
+INV1369,116,Female,55,Grocery,1062,5,65.14,09-07-2023,New York,Cash,325.7
+INV1370,147,Male,34,Clothing,1093,5,218.73,21-04-2023,Chicago,Cash,1093.65
+INV1371,227,Male,61,Grocery,1052,2,205.84,18-08-2023,Phoenix,Cash,411.68
+INV1372,231,Male,59,Electronics,1002,3,48.9,29-10-2023,Los Angeles,Credit Card,146.7
+INV1373,219,Female,64,Grocery,1012,5,775.51,28-07-2023,Chicago,Cash,3877.55
+INV1374,215,Female,56,Electronics,1015,2,240.68,19-02-2023,New York,Cash,481.36
+INV1375,105,Female,30,Clothing,1049,5,24.5,22-01-2023,New York,Cash,122.5
+INV1376,294,Male,44,Clothing,1062,4,38.94,12-03-2023,Phoenix,Credit Card,155.76
+INV1377,164,Male,18,Grocery,1002,2,149.54,22-09-2023,Los Angeles,Debit Card,299.08
+INV1378,145,Male,24,Toys,1025,5,51.19,09-02-2023,New York,Credit Card,255.95
+INV1379,287,Female,43,Clothing,1064,3,190.1,06-10-2023,Los Angeles,Mobile Payment,570.3
+INV1380,237,Male,26,Furniture,1028,2,615.51,26-05-2023,New York,Credit Card,1231.02
+INV1381,241,Male,22,Electronics,1098,5,548.96,14-08-2023,Houston,Mobile Payment,2744.8
+INV1382,167,Female,35,Furniture,1015,4,275.34,23-10-2023,Los Angeles,Debit Card,1101.36
+INV1383,226,Male,48,Furniture,1085,3,495.73,30-06-2023,New York,Credit Card,1487.19
+INV1384,179,Male,21,Grocery,1067,1,756.24,28-01-2023,New York,Debit Card,756.24
+INV1385,182,Female,63,Electronics,1019,2,680.7,26-03-2023,Houston,Cash,1361.4
+INV1386,184,Male,63,Clothing,1020,4,574.4,12-11-2023,Chicago,Cash,2297.6
+INV1387,179,Female,41,Electronics,1075,5,749.85,06-08-2023,Los Angeles,Mobile Payment,3749.25
+INV1388,241,Female,41,Electronics,1049,4,167.6,13-04-2023,New York,Credit Card,670.4
+INV1389,175,Male,54,Electronics,1026,3,59.15,22-06-2023,Los Angeles,Debit Card,177.45
+INV1390,149,Female,27,Electronics,1068,4,710.04,30-11-2023,Houston,Credit Card,2840.16
+INV1391,188,Male,44,Grocery,1049,1,157.88,22-10-2023,New York,Cash,157.88
+INV1392,181,Female,42,Electronics,1023,4,435.6,20-03-2023,Los Angeles,Cash,1742.4
+INV1393,139,Male,31,Toys,1011,4,232.6,16-02-2023,Chicago,Cash,930.4
+INV1394,224,Male,52,Grocery,1088,4,478.29,28-02-2023,Phoenix,Credit Card,1913.16
+INV1395,138,Male,58,Grocery,1019,4,275.5,15-06-2023,New York,Credit Card,1102
+INV1396,265,Male,36,Clothing,1011,5,570.32,31-01-2023,New York,Mobile Payment,2851.6
+INV1397,188,Female,60,Toys,1096,6,477.38,31-07-2023,Phoenix,Mobile Payment,2864.28
+INV1398,247,Female,62,Grocery,1080,4,745.47,08-04-2023,Los Angeles,Debit Card,2981.88
+INV1399,255,Male,28,Electronics,1004,1,92.5,07-11-2023,New York,Mobile Payment,92.5
+INV1400,121,Male,33,Grocery,1065,4,111.86,22-06-2023,New York,Debit Card,447.44
+INV1401,100,Female,32,Electronics,1088,5,44,26-01-2023,New York,Credit Card,220
+INV1402,173,Female,60,Clothing,1098,4,679.52,16-02-2023,New York,Cash,2718.08
+INV1403,229,Female,26,Grocery,1087,1,626.42,25-06-2023,Los Angeles,Mobile Payment,626.42
+INV1404,136,Female,27,Toys,1069,3,424.78,15-09-2023,New York,Mobile Payment,1274.34
+INV1405,279,Female,58,Grocery,1035,2,723.84,12-06-2023,Los Angeles,Credit Card,1447.68
+INV1406,133,Male,59,Grocery,1058,5,546.78,10-06-2023,New York,Mobile Payment,2733.9
+INV1407,196,Male,26,Electronics,1050,2,678.71,04-07-2023,New York,Credit Card,1357.42
+INV1408,186,Female,54,Electronics,1005,3,396.47,04-10-2023,Houston,Cash,1189.41
+INV1409,254,Male,59,Clothing,1029,3,93.78,13-01-2023,Los Angeles,Debit Card,281.34
+INV1410,221,Female,44,Grocery,1078,3,625.4,31-01-2023,Houston,Credit Card,1876.2
+INV1411,186,Male,47,Toys,1035,5,272.94,21-12-2023,Chicago,Credit Card,1364.7
+INV1412,234,Male,48,Electronics,1035,4,99.77,13-08-2023,New York,Credit Card,399.08
+INV1413,231,Male,26,Clothing,1000,2,786.46,10-01-2023,New York,Credit Card,1572.92
+INV1414,128,Female,54,Grocery,1032,4,710.32,01-01-2023,New York,Credit Card,2841.28
+INV1415,135,Male,48,Clothing,1064,4,108.98,05-09-2023,Phoenix,Credit Card,435.92
+INV1416,259,Male,37,Electronics,1043,4,446.09,01-04-2023,Phoenix,Mobile Payment,1784.36
+INV1417,119,Male,32,Electronics,1066,2,756.34,28-07-2023,Los Angeles,Credit Card,1512.68
+INV1418,280,Male,19,Clothing,1050,6,565.73,24-09-2023,Chicago,Credit Card,3394.38
+INV1419,269,Male,46,Toys,1062,7,320.46,17-07-2023,Houston,Debit Card,2243.22
+INV1420,222,Male,56,Grocery,1098,4,46.03,29-01-2023,New York,Credit Card,184.12
+INV1421,150,Female,63,Toys,1025,2,33.22,29-03-2023,New York,Cash,66.44
+INV1422,146,Male,52,Electronics,1077,4,664.08,09-07-2023,Houston,Cash,2656.32
+INV1423,171,Female,25,Electronics,1056,5,463.03,22-02-2023,Phoenix,Mobile Payment,2315.15
+INV1424,149,Female,54,Clothing,1077,3,202.85,18-03-2023,New York,Mobile Payment,608.55
+INV1425,278,Female,56,Electronics,1066,4,27.84,06-03-2023,Chicago,Mobile Payment,111.36
+INV1426,177,Male,41,Furniture,1085,4,260.32,29-12-2023,Los Angeles,Credit Card,1041.28
+INV1427,286,Male,60,Clothing,1096,3,579.26,25-05-2023,Los Angeles,Credit Card,1737.78
+INV1428,176,Male,48,Furniture,1046,2,72.78,18-06-2023,New York,Credit Card,145.56
+INV1429,199,Male,55,Furniture,1058,6,115.25,19-05-2023,Chicago,Cash,691.5
+INV1430,102,Female,25,Clothing,1066,9,355.41,26-10-2023,New York,Cash,3198.69
+INV1431,221,Male,30,Clothing,1008,3,703.57,07-08-2023,Houston,Cash,2110.71
+INV1432,161,Male,29,Furniture,1038,3,513.82,03-01-2023,New York,Mobile Payment,1541.46
+INV1433,160,Female,45,Toys,1072,4,68.06,14-12-2023,New York,Debit Card,272.24
+INV1434,246,Female,26,Clothing,1043,4,125.88,07-08-2023,Los Angeles,Mobile Payment,503.52
+INV1435,135,Female,37,Clothing,1056,4,140.65,06-05-2023,Los Angeles,Credit Card,562.6
+INV1436,230,Male,19,Electronics,1012,6,652.6,12-01-2023,New York,Mobile Payment,3915.6
+INV1437,155,Female,54,Grocery,1079,5,560.78,13-04-2023,Chicago,Credit Card,2803.9
+INV1438,196,Male,64,Electronics,1081,4,664.59,21-03-2023,Phoenix,Mobile Payment,2658.36
+INV1439,163,Male,57,Clothing,1026,5,685.43,07-08-2023,Los Angeles,Credit Card,3427.15
+INV1440,170,Female,26,Electronics,1059,6,664.64,12-09-2023,Los Angeles,Credit Card,3987.84
+INV1441,253,Female,29,Clothing,1056,4,19.45,20-07-2023,New York,Credit Card,77.8
+INV1442,226,Male,26,Toys,1075,3,154.66,10-04-2023,New York,Mobile Payment,463.98
+INV1443,207,Male,38,Clothing,1087,4,750.54,06-01-2023,New York,Debit Card,3002.16
+INV1444,284,Male,53,Toys,1011,3,618.47,11-04-2023,Chicago,Credit Card,1855.41
+INV1445,286,Female,30,Electronics,1018,6,238.05,10-11-2023,Chicago,Debit Card,1428.3
+INV1446,182,Male,49,Electronics,1032,6,182.49,25-09-2023,Phoenix,Credit Card,1094.94
+INV1447,176,Male,50,Toys,1085,3,785.49,07-04-2023,Los Angeles,Mobile Payment,2356.47
+INV1448,288,Male,51,Grocery,1095,5,661.68,18-10-2023,Chicago,Cash,3308.4
+INV1449,117,Female,22,Furniture,1043,3,82.93,18-05-2023,Los Angeles,Credit Card,248.79
+INV1450,133,Male,23,Electronics,1011,5,294.17,18-05-2023,Houston,Mobile Payment,1470.85
+INV1451,294,Female,50,Toys,1059,1,721.67,19-12-2023,Los Angeles,Debit Card,721.67
+INV1452,118,Female,38,Grocery,1094,4,271.74,26-09-2023,Chicago,Credit Card,1086.96
+INV1453,166,Male,49,Electronics,1040,2,775.1,18-12-2023,Houston,Credit Card,1550.2
+INV1454,264,Female,64,Electronics,1030,5,19.32,23-12-2023,Houston,Mobile Payment,96.6
+INV1455,213,Male,48,Furniture,1070,6,650.96,03-11-2023,Phoenix,Debit Card,3905.76
+INV1456,107,Male,31,Clothing,1030,3,706.96,27-12-2023,Chicago,Credit Card,2120.88
+INV1457,200,Male,22,Electronics,1060,3,92.02,01-07-2023,New York,Credit Card,276.06
+INV1458,290,Female,60,Electronics,1008,2,222.18,01-06-2023,Phoenix,Debit Card,444.36
+INV1459,229,Female,46,Grocery,1093,5,517.74,15-01-2023,Los Angeles,Debit Card,2588.7
+INV1460,177,Female,27,Clothing,1019,4,116.04,19-06-2023,Phoenix,Credit Card,464.16
+INV1461,285,Male,56,Electronics,1024,10,425.81,23-08-2023,New York,Credit Card,4258.1
+INV1462,258,Male,61,Furniture,1049,3,411.61,19-12-2023,Los Angeles,Cash,1234.83
+INV1463,192,Male,30,Clothing,1066,3,547.72,12-01-2023,Los Angeles,Credit Card,1643.16
+INV1464,244,Female,56,Furniture,1035,3,747.9,15-12-2023,Los Angeles,Mobile Payment,2243.7
+INV1465,196,Male,53,Furniture,1015,4,762.76,05-04-2023,Chicago,Credit Card,3051.04
+INV1466,120,Female,59,Electronics,1070,5,510.11,06-11-2023,New York,Debit Card,2550.55
+INV1467,263,Male,51,Electronics,1094,2,242.86,09-03-2023,New York,Mobile Payment,485.72
+INV1468,182,Male,42,Electronics,1014,4,474.74,03-10-2023,New York,Credit Card,1898.96
+INV1469,123,Male,38,Electronics,1005,5,595.41,21-09-2023,Chicago,Debit Card,2977.05
+INV1470,270,Female,61,Grocery,1037,2,34.41,07-12-2023,Houston,Credit Card,68.82
+INV1471,199,Female,37,Furniture,1036,3,277.21,12-07-2023,New York,Credit Card,831.63
+INV1472,107,Female,27,Electronics,1020,5,583.3,15-08-2023,Los Angeles,Mobile Payment,2916.5
+INV1473,177,Male,52,Toys,1068,3,402.63,30-01-2023,Phoenix,Credit Card,1207.89
+INV1474,147,Female,58,Clothing,1070,4,18.38,20-07-2023,New York,Mobile Payment,73.52
+INV1475,118,Male,28,Clothing,1048,4,178.67,03-08-2023,New York,Credit Card,714.68
+INV1476,143,Male,40,Clothing,1003,5,184.04,30-10-2023,Chicago,Mobile Payment,920.2
+INV1477,187,Female,60,Electronics,1020,3,711.16,20-10-2023,Los Angeles,Credit Card,2133.48
+INV1478,192,Female,54,Furniture,1025,3,40.16,28-02-2023,Houston,Credit Card,120.48
+INV1479,101,Male,59,Electronics,1035,4,611.1,29-11-2023,Los Angeles,Credit Card,2444.4
+INV1480,191,Male,53,Clothing,1074,7,66.73,20-12-2023,Phoenix,Credit Card,467.11
+INV1481,141,Female,26,Electronics,1055,2,304.44,10-02-2023,Los Angeles,Debit Card,608.88
+INV1482,250,Female,21,Toys,1061,4,77,21-02-2023,Houston,Mobile Payment,308
+INV1483,177,Female,55,Clothing,1086,6,798.67,12-11-2023,Houston,Credit Card,4792.02
+INV1484,276,Female,45,Furniture,1093,3,545.06,03-10-2023,Los Angeles,Mobile Payment,1635.18
+INV1485,189,Male,44,Furniture,1090,4,271.75,11-12-2023,New York,Cash,1087
+INV1486,211,Male,44,Toys,1041,2,548.53,02-02-2023,New York,Mobile Payment,1097.06
+INV1487,287,Male,54,Clothing,1062,5,707.12,12-11-2023,Los Angeles,Credit Card,3535.6
+INV1488,237,Female,20,Clothing,1037,2,705.21,15-07-2023,Houston,Credit Card,1410.42
+INV1489,297,Female,24,Grocery,1082,6,346.92,21-11-2023,New York,Debit Card,2081.52
+INV1490,150,Male,55,Grocery,1030,3,490.95,26-09-2023,Los Angeles,Cash,1472.85
+INV1491,162,Female,60,Electronics,1022,2,271.67,02-01-2023,Los Angeles,Debit Card,543.34
+INV1492,270,Male,52,Electronics,1090,5,382.28,27-11-2023,New York,Credit Card,1911.4
+INV1493,299,Male,47,Toys,1087,2,683.57,04-01-2023,Houston,Cash,1367.14
+INV1494,149,Female,39,Furniture,1078,4,477.82,09-05-2023,Chicago,Credit Card,1911.28
+INV1495,114,Female,56,Furniture,1060,2,21.19,08-09-2023,Los Angeles,Credit Card,42.38
+INV1496,190,Male,34,Clothing,1059,2,13.12,30-09-2023,Los Angeles,Cash,26.24
+INV1497,101,Female,44,Electronics,1039,2,375.1,14-08-2023,New York,Cash,750.2
+INV1498,235,Male,42,Grocery,1062,7,374.96,12-10-2023,Phoenix,Credit Card,2624.72
+INV1499,163,Female,43,Furniture,1022,5,217.69,01-07-2023,Phoenix,Mobile Payment,1088.45
+INV1500,220,Male,35,Clothing,1059,3,721.44,26-09-2023,Los Angeles,Mobile Payment,2164.32
+INV1501,147,Male,61,Clothing,1046,2,685.38,06-05-2023,New York,Credit Card,1370.76
+INV1502,213,Female,64,Clothing,1037,2,356.81,16-12-2023,New York,Debit Card,713.62
+INV1503,204,Male,34,Clothing,1064,3,433.52,02-05-2023,Chicago,Debit Card,1300.56
+INV1504,285,Female,20,Furniture,1054,2,62.99,12-08-2023,Houston,Credit Card,125.98
+INV1505,126,Female,34,Clothing,1032,2,13.95,06-02-2023,Los Angeles,Mobile Payment,27.9
+INV1506,182,Female,30,Electronics,1027,3,728.33,22-09-2023,Phoenix,Credit Card,2184.99
+INV1507,244,Female,36,Clothing,1090,4,113.89,25-12-2023,New York,Debit Card,455.56
+INV1508,151,Female,20,Grocery,1051,4,258.67,31-03-2023,Houston,Cash,1034.68
+INV1509,187,Female,24,Furniture,1064,2,273.35,24-05-2023,Houston,Mobile Payment,546.7
+INV1510,110,Male,22,Furniture,1099,5,774.22,24-08-2023,New York,Cash,3871.1
+INV1511,296,Female,41,Grocery,1042,5,587.91,31-01-2023,Houston,Cash,2939.55
+INV1512,267,Male,22,Electronics,1034,5,532.02,22-05-2023,Phoenix,Credit Card,2660.1
+INV1513,198,Male,22,Toys,1020,4,253.82,01-11-2023,Chicago,Mobile Payment,1015.28
+INV1514,228,Female,19,Furniture,1031,1,59.05,09-05-2023,Chicago,Debit Card,59.05
+INV1515,101,Male,40,Electronics,1034,5,377.88,02-04-2023,Chicago,Debit Card,1889.4
+INV1516,232,Male,28,Clothing,1087,2,735.06,29-08-2023,New York,Credit Card,1470.12
+INV1517,158,Male,57,Electronics,1009,2,651.12,11-08-2023,New York,Credit Card,1302.24
+INV1518,269,Male,31,Clothing,1000,4,230.21,17-01-2023,Los Angeles,Debit Card,920.84
+INV1519,106,Female,22,Grocery,1070,6,619.84,18-01-2023,Los Angeles,Credit Card,3719.04
+INV1520,137,Female,47,Electronics,1020,3,52.69,07-08-2023,Houston,Debit Card,158.07
+INV1521,184,Female,48,Furniture,1042,3,362.07,16-03-2023,Houston,Mobile Payment,1086.21
+INV1522,137,Female,60,Furniture,1082,5,590.72,24-10-2023,New York,Debit Card,2953.6
+INV1523,141,Female,38,Clothing,1057,4,113.53,15-11-2023,New York,Cash,454.12
+INV1524,265,Female,35,Toys,1075,5,764.83,14-01-2023,Los Angeles,Credit Card,3824.15
+INV1525,295,Female,62,Furniture,1075,2,190.82,18-08-2023,New York,Mobile Payment,381.64
+INV1526,275,Male,32,Electronics,1090,4,612.61,10-02-2023,Los Angeles,Debit Card,2450.44
+INV1527,260,Female,22,Electronics,1031,7,107.23,30-11-2023,Phoenix,Mobile Payment,750.61
+INV1528,132,Female,18,Electronics,1087,3,393.96,16-04-2023,New York,Cash,1181.88
+INV1529,250,Female,19,Furniture,1028,5,458.83,30-04-2023,Los Angeles,Cash,2294.15
+INV1530,128,Male,47,Grocery,1061,4,240.73,17-07-2023,Houston,Debit Card,962.92
+INV1531,156,Male,52,Clothing,1080,3,749.07,21-09-2023,Chicago,Credit Card,2247.21
+INV1532,186,Male,52,Grocery,1094,6,255.06,14-02-2023,Los Angeles,Credit Card,1530.36
+INV1533,266,Female,54,Toys,1014,2,487.07,28-04-2023,Phoenix,Mobile Payment,974.14
+INV1534,229,Male,36,Electronics,1098,4,339.38,31-10-2023,Los Angeles,Cash,1357.52
+INV1535,277,Male,58,Electronics,1099,1,78.45,04-04-2023,Chicago,Mobile Payment,78.45
+INV1536,191,Male,28,Furniture,1048,2,686.35,30-12-2023,Phoenix,Mobile Payment,1372.7
+INV1537,299,Female,51,Electronics,1090,4,503.02,26-06-2023,Houston,Credit Card,2012.08
+INV1538,209,Male,26,Grocery,1088,3,465.93,21-12-2023,Phoenix,Credit Card,1397.79
+INV1539,144,Female,36,Grocery,1057,6,720.8,20-04-2023,New York,Credit Card,4324.8
+INV1540,284,Female,33,Grocery,1061,4,704.38,04-03-2023,Phoenix,Credit Card,2817.52
+INV1541,114,Female,51,Toys,1045,3,239.52,08-12-2023,Houston,Credit Card,718.56
+INV1542,105,Male,40,Furniture,1076,5,484.19,19-10-2023,Los Angeles,Mobile Payment,2420.95
+INV1543,196,Male,54,Grocery,1038,2,533.86,18-02-2023,Los Angeles,Mobile Payment,1067.72
+INV1544,284,Male,31,Toys,1021,5,454.16,15-11-2023,Chicago,Debit Card,2270.8
+INV1545,127,Male,48,Grocery,1073,6,309.35,08-03-2023,Phoenix,Mobile Payment,1856.1
+INV1546,194,Female,45,Clothing,1047,7,611.55,21-04-2023,Los Angeles,Cash,4280.85
+INV1547,114,Female,62,Grocery,1079,6,91.47,04-02-2023,New York,Credit Card,548.82
+INV1548,270,Female,23,Clothing,1051,2,494.24,07-11-2023,New York,Mobile Payment,988.48
+INV1549,192,Female,54,Grocery,1022,4,465.11,26-09-2023,Houston,Cash,1860.44
+INV1550,213,Female,49,Grocery,1027,3,651.67,30-03-2023,Chicago,Credit Card,1955.01
+INV1551,187,Male,51,Clothing,1055,1,591.93,13-07-2023,New York,Mobile Payment,591.93
+INV1552,224,Male,21,Toys,1027,6,509.24,04-04-2023,New York,Mobile Payment,3055.44
+INV1553,129,Male,39,Toys,1068,5,13.85,02-02-2023,Houston,Credit Card,69.25
+INV1554,181,Male,58,Clothing,1022,4,271.91,22-08-2023,Houston,Credit Card,1087.64
+INV1555,278,Male,30,Clothing,1088,2,573.7,18-04-2023,New York,Debit Card,1147.4
+INV1556,297,Female,27,Electronics,1090,2,486.23,13-04-2023,New York,Credit Card,972.46
+INV1557,107,Female,31,Grocery,1021,6,103.87,19-05-2023,New York,Mobile Payment,623.22
+INV1558,104,Male,24,Furniture,1065,4,566.77,03-12-2023,New York,Credit Card,2267.08
+INV1559,294,Male,46,Electronics,1096,5,304.57,01-03-2023,Chicago,Credit Card,1522.85
+INV1560,119,Male,60,Clothing,1024,2,741.26,18-11-2023,Chicago,Cash,1482.52
+INV1561,186,Male,26,Furniture,1045,5,510.77,10-02-2023,Chicago,Credit Card,2553.85
+INV1562,182,Female,44,Electronics,1026,6,312.45,03-12-2023,Los Angeles,Credit Card,1874.7
+INV1563,198,Female,58,Toys,1001,5,408.74,02-11-2023,Chicago,Credit Card,2043.7
+INV1564,280,Female,34,Grocery,1087,4,380.99,08-05-2023,New York,Cash,1523.96
+INV1565,183,Male,35,Clothing,1031,4,299.66,26-06-2023,Los Angeles,Mobile Payment,1198.64
+INV1566,176,Male,30,Furniture,1039,6,392.65,11-02-2023,Los Angeles,Mobile Payment,2355.9
+INV1567,239,Female,50,Furniture,1073,6,590.32,14-12-2023,Chicago,Cash,3541.92
+INV1568,137,Female,53,Clothing,1089,2,129.2,15-03-2023,New York,Mobile Payment,258.4
+INV1569,179,Male,49,Toys,1022,2,318.99,06-06-2023,New York,Cash,637.98
+INV1570,223,Male,46,Clothing,1026,5,722.56,28-03-2023,Phoenix,Cash,3612.8
+INV1571,237,Male,51,Electronics,1052,1,216.45,02-01-2023,Chicago,Credit Card,216.45
+INV1572,111,Male,47,Grocery,1023,6,160.37,26-07-2023,Los Angeles,Credit Card,962.22
+INV1573,130,Male,60,Furniture,1050,4,596.03,19-12-2023,Chicago,Cash,2384.12
+INV1574,297,Male,44,Clothing,1029,3,402.41,24-09-2023,Houston,Debit Card,1207.23
+INV1575,293,Male,50,Clothing,1091,5,369.04,22-02-2023,Chicago,Cash,1845.2
+INV1576,151,Female,46,Grocery,1021,3,35.15,31-12-2023,New York,Credit Card,105.45
+INV1577,254,Male,39,Electronics,1063,4,719.24,03-07-2023,Phoenix,Credit Card,2876.96
+INV1578,283,Female,45,Electronics,1042,1,292.93,09-11-2023,New York,Debit Card,292.93
+INV1579,215,Female,55,Toys,1061,5,609.62,21-08-2023,New York,Mobile Payment,3048.1
+INV1580,137,Male,63,Furniture,1083,3,557.6,10-08-2023,Chicago,Credit Card,1672.8
+INV1581,136,Male,53,Furniture,1040,4,12.17,27-11-2023,Chicago,Credit Card,48.68
+INV1582,139,Male,44,Electronics,1091,3,384.26,13-07-2023,Chicago,Mobile Payment,1152.78
+INV1583,182,Male,42,Furniture,1056,5,144.49,04-11-2023,New York,Credit Card,722.45
+INV1584,231,Female,37,Grocery,1074,2,430.21,31-10-2023,Los Angeles,Cash,860.42
+INV1585,133,Male,55,Clothing,1038,2,67.3,28-10-2023,Phoenix,Mobile Payment,134.6
+INV1586,265,Female,58,Clothing,1050,2,92.42,07-03-2023,New York,Credit Card,184.84
+INV1587,141,Female,31,Grocery,1060,3,731.85,09-06-2023,New York,Credit Card,2195.55
+INV1588,153,Female,59,Electronics,1048,7,178.8,29-03-2023,New York,Mobile Payment,1251.6
+INV1589,106,Male,28,Clothing,1076,4,50.68,20-05-2023,Phoenix,Credit Card,202.72
+INV1590,212,Female,52,Electronics,1023,4,221.28,24-06-2023,Los Angeles,Credit Card,885.12
+INV1591,114,Male,64,Electronics,1035,4,484.1,06-06-2023,Los Angeles,Mobile Payment,1936.4
+INV1592,226,Male,19,Clothing,1037,6,275.21,16-08-2023,Houston,Debit Card,1651.26
+INV1593,118,Male,58,Grocery,1008,5,32.31,09-06-2023,New York,Credit Card,161.55
+INV1594,118,Male,40,Electronics,1011,1,360.11,21-12-2023,Los Angeles,Debit Card,360.11
+INV1595,227,Female,44,Grocery,1067,5,569.06,04-09-2023,Los Angeles,Credit Card,2845.3
+INV1596,194,Female,35,Electronics,1024,5,562.91,23-05-2023,New York,Mobile Payment,2814.55
+INV1597,247,Male,19,Grocery,1084,3,422.34,17-02-2023,Phoenix,Credit Card,1267.02
+INV1598,184,Female,49,Furniture,1000,4,294.18,13-08-2023,Chicago,Mobile Payment,1176.72
+INV1599,115,Male,27,Clothing,1045,3,461.35,27-09-2023,Los Angeles,Credit Card,1384.05
+INV1600,177,Female,57,Furniture,1001,3,173.53,15-08-2023,New York,Mobile Payment,520.59
+INV1601,125,Male,24,Electronics,1043,5,515.69,20-08-2023,New York,Credit Card,2578.45
+INV1602,147,Male,42,Electronics,1011,2,11.88,14-06-2023,Chicago,Mobile Payment,23.76
+INV1603,265,Male,43,Clothing,1081,3,363.5,03-08-2023,Los Angeles,Cash,1090.5
+INV1604,157,Female,47,Clothing,1084,4,554.9,20-10-2023,Los Angeles,Mobile Payment,2219.6
+INV1605,126,Female,20,Furniture,1004,5,330.26,27-11-2023,Los Angeles,Credit Card,1651.3
+INV1606,210,Male,43,Grocery,1021,4,602.15,22-07-2023,New York,Credit Card,2408.6
+INV1607,287,Female,51,Clothing,1008,5,716.1,07-04-2023,Los Angeles,Credit Card,3580.5
+INV1608,153,Female,43,Clothing,1058,2,309.2,07-11-2023,Phoenix,Debit Card,618.4
+INV1609,274,Female,57,Toys,1023,5,618.51,18-02-2023,Los Angeles,Mobile Payment,3092.55
+INV1610,147,Female,47,Toys,1035,3,552.01,09-12-2023,Chicago,Cash,1656.03
+INV1611,186,Female,21,Grocery,1096,5,197.07,27-08-2023,New York,Credit Card,985.35
+INV1612,213,Female,53,Electronics,1005,2,294.92,01-08-2023,Los Angeles,Credit Card,589.84
+INV1613,145,Male,41,Grocery,1000,1,343.34,01-10-2023,Phoenix,Cash,343.34
+INV1614,288,Male,61,Electronics,1038,4,427.03,30-10-2023,Chicago,Credit Card,1708.12
+INV1615,272,Female,59,Electronics,1060,4,164.85,15-10-2023,New York,Mobile Payment,659.4
+INV1616,236,Female,50,Toys,1042,5,101.37,26-05-2023,New York,Cash,506.85
+INV1617,193,Female,60,Electronics,1075,4,570.2,22-03-2023,Houston,Credit Card,2280.8
+INV1618,235,Male,27,Furniture,1015,4,319.62,17-02-2023,Phoenix,Cash,1278.48
+INV1619,281,Female,45,Grocery,1071,5,535.63,26-07-2023,Phoenix,Credit Card,2678.15
+INV1620,136,Female,56,Electronics,1046,7,469.16,23-05-2023,Los Angeles,Credit Card,3284.12
+INV1621,292,Female,62,Grocery,1079,2,144.84,23-06-2023,Chicago,Credit Card,289.68
+INV1622,262,Female,48,Toys,1033,4,308.66,17-05-2023,New York,Mobile Payment,1234.64
+INV1623,104,Female,57,Electronics,1034,3,379.87,28-05-2023,Phoenix,Credit Card,1139.61
+INV1624,240,Female,21,Toys,1026,2,114.25,04-12-2023,New York,Debit Card,228.5
+INV1625,268,Male,26,Clothing,1053,1,571.59,28-10-2023,Los Angeles,Cash,571.59
+INV1626,134,Male,23,Grocery,1077,3,53.52,18-12-2023,Houston,Debit Card,160.56
+INV1627,193,Female,32,Electronics,1041,4,301.62,15-06-2023,Los Angeles,Mobile Payment,1206.48
+INV1628,223,Female,63,Grocery,1084,5,260.4,03-12-2023,Los Angeles,Mobile Payment,1302
+INV1629,115,Female,30,Toys,1078,5,605.36,23-01-2023,New York,Cash,3026.8
+INV1630,240,Female,36,Grocery,1076,5,631.32,05-09-2023,New York,Debit Card,3156.6
+INV1631,185,Female,44,Electronics,1067,3,703.38,17-11-2023,Los Angeles,Credit Card,2110.14
+INV1632,251,Male,57,Grocery,1010,2,656.87,26-02-2023,Phoenix,Credit Card,1313.74
+INV1633,167,Female,32,Grocery,1031,4,326.67,13-04-2023,Los Angeles,Credit Card,1306.68
+INV1634,211,Male,25,Furniture,1030,1,521.91,01-10-2023,Los Angeles,Credit Card,521.91
+INV1635,160,Female,21,Toys,1047,3,380.81,21-07-2023,New York,Mobile Payment,1142.43
+INV1636,179,Female,37,Grocery,1055,4,736.38,14-08-2023,Chicago,Debit Card,2945.52
+INV1637,237,Male,24,Electronics,1036,4,720.02,14-03-2023,Houston,Credit Card,2880.08
+INV1638,163,Female,44,Furniture,1039,4,263.9,22-05-2023,New York,Credit Card,1055.6
+INV1639,283,Male,37,Grocery,1019,4,78.05,19-01-2023,New York,Credit Card,312.2
+INV1640,172,Male,30,Electronics,1044,2,708.61,17-10-2023,New York,Cash,1417.22
+INV1641,244,Male,25,Electronics,1039,5,462.55,18-02-2023,Chicago,Credit Card,2312.75
+INV1642,227,Female,63,Electronics,1069,3,496.51,05-01-2023,Los Angeles,Credit Card,1489.53
+INV1643,254,Male,33,Grocery,1033,5,754.92,27-01-2023,Chicago,Credit Card,3774.6
+INV1644,127,Male,32,Furniture,1083,1,144.24,22-07-2023,Chicago,Mobile Payment,144.24
+INV1645,188,Female,28,Grocery,1007,3,149.22,22-05-2023,New York,Credit Card,447.66
+INV1646,262,Female,54,Electronics,1096,1,44.41,18-08-2023,Chicago,Cash,44.41
+INV1647,251,Male,28,Toys,1019,6,784.07,06-07-2023,Chicago,Debit Card,4704.42
+INV1648,158,Male,36,Clothing,1004,3,708.23,16-09-2023,Houston,Mobile Payment,2124.69
+INV1649,240,Female,29,Furniture,1088,5,314.25,11-06-2023,Chicago,Credit Card,1571.25
+INV1650,272,Female,61,Grocery,1077,3,185.62,08-08-2023,Los Angeles,Mobile Payment,556.86
+INV1651,282,Female,57,Electronics,1077,1,532.25,27-02-2023,Houston,Debit Card,532.25
+INV1652,235,Male,24,Furniture,1036,5,596.32,20-02-2023,Chicago,Credit Card,2981.6
+INV1653,200,Female,42,Clothing,1087,5,32.72,10-11-2023,Chicago,Cash,163.6
+INV1654,279,Male,23,Electronics,1089,3,687.47,26-11-2023,Houston,Mobile Payment,2062.41
+INV1655,182,Female,20,Grocery,1058,1,497.86,29-05-2023,Los Angeles,Cash,497.86
+INV1656,269,Male,49,Clothing,1071,3,662.31,07-03-2023,Houston,Credit Card,1986.93
+INV1657,129,Female,26,Electronics,1004,4,527.37,26-07-2023,New York,Credit Card,2109.48
+INV1658,175,Female,46,Furniture,1048,5,686.02,20-11-2023,New York,Cash,3430.1
+INV1659,170,Male,52,Grocery,1063,2,41.07,11-05-2023,Los Angeles,Credit Card,82.14
+INV1660,242,Male,46,Toys,1015,3,773.1,27-05-2023,Los Angeles,Credit Card,2319.3
+INV1661,109,Male,38,Clothing,1096,6,657.13,20-04-2023,Los Angeles,Mobile Payment,3942.78
+INV1662,178,Male,55,Clothing,1014,4,95.06,12-02-2023,New York,Credit Card,380.24
+INV1663,250,Female,40,Electronics,1049,4,537.67,01-08-2023,New York,Credit Card,2150.68
+INV1664,255,Male,19,Electronics,1047,1,463.16,30-09-2023,Houston,Credit Card,463.16
+INV1665,155,Male,36,Toys,1076,4,164.02,22-02-2023,Houston,Credit Card,656.08
+INV1666,230,Male,28,Furniture,1089,2,93.63,21-07-2023,New York,Credit Card,187.26
+INV1667,211,Female,39,Grocery,1096,3,468.34,31-03-2023,New York,Cash,1405.02
+INV1668,120,Male,53,Electronics,1094,4,616.55,24-07-2023,New York,Credit Card,2466.2
+INV1669,227,Male,42,Grocery,1096,3,594.92,18-02-2023,Chicago,Cash,1784.76
+INV1670,274,Male,21,Clothing,1042,2,718.92,01-07-2023,New York,Credit Card,1437.84
+INV1671,158,Female,57,Clothing,1048,4,618.46,23-06-2023,New York,Credit Card,2473.84
+INV1672,107,Male,55,Electronics,1036,5,671.27,15-07-2023,New York,Credit Card,3356.35
+INV1673,160,Female,61,Furniture,1069,6,785.07,10-02-2023,New York,Debit Card,4710.42
+INV1674,228,Female,58,Electronics,1088,5,633.54,05-06-2023,Houston,Credit Card,3167.7
+INV1675,293,Female,57,Grocery,1082,3,177.66,10-12-2023,New York,Credit Card,532.98
+INV1676,294,Male,40,Grocery,1005,3,530.65,25-09-2023,New York,Credit Card,1591.95
+INV1677,120,Female,28,Electronics,1038,5,799.09,22-04-2023,Phoenix,Cash,3995.45
+INV1678,292,Male,39,Electronics,1060,3,439.73,02-09-2023,New York,Cash,1319.19
+INV1679,178,Male,36,Toys,1097,4,538.89,28-08-2023,Houston,Mobile Payment,2155.56
+INV1680,167,Female,45,Grocery,1092,5,627.27,10-09-2023,Los Angeles,Credit Card,3136.35
+INV1681,236,Male,19,Electronics,1004,2,172.5,18-10-2023,Los Angeles,Credit Card,345
+INV1682,199,Male,26,Clothing,1058,2,41.15,18-01-2023,Chicago,Mobile Payment,82.3
+INV1683,240,Male,36,Grocery,1079,4,285.94,25-01-2023,New York,Credit Card,1143.76
+INV1684,223,Female,36,Electronics,1049,6,690.53,11-10-2023,Los Angeles,Debit Card,4143.18
+INV1685,195,Male,25,Furniture,1081,5,279.65,08-04-2023,Houston,Mobile Payment,1398.25
+INV1686,248,Female,34,Clothing,1028,5,187.79,19-03-2023,Los Angeles,Credit Card,938.95
+INV1687,137,Female,32,Clothing,1033,1,746.54,13-06-2023,Houston,Credit Card,746.54
+INV1688,268,Male,33,Clothing,1087,3,407.13,22-02-2023,Houston,Credit Card,1221.39
+INV1689,182,Male,56,Electronics,1017,5,620.14,19-07-2023,New York,Debit Card,3100.7
+INV1690,127,Female,57,Electronics,1036,4,721.95,27-03-2023,New York,Credit Card,2887.8
+INV1691,239,Female,25,Clothing,1008,2,570.38,24-02-2023,Los Angeles,Credit Card,1140.76
+INV1692,171,Female,28,Electronics,1094,4,31.85,24-04-2023,New York,Credit Card,127.4
+INV1693,136,Male,22,Furniture,1096,6,105.12,06-12-2023,Los Angeles,Credit Card,630.72
+INV1694,147,Female,37,Electronics,1080,3,689.28,13-07-2023,Houston,Credit Card,2067.84
+INV1695,290,Female,35,Electronics,1064,2,104.14,11-04-2023,Los Angeles,Mobile Payment,208.28
+INV1696,202,Male,46,Electronics,1071,7,581.99,19-08-2023,Houston,Debit Card,4073.93
+INV1697,247,Female,36,Toys,1072,3,224.64,30-11-2023,Los Angeles,Mobile Payment,673.92
+INV1698,138,Female,29,Clothing,1004,8,29.7,10-01-2023,Houston,Mobile Payment,237.6
+INV1699,263,Female,31,Furniture,1042,3,702.3,19-08-2023,Los Angeles,Cash,2106.9
+INV1700,229,Female,18,Grocery,1013,2,223.63,06-10-2023,New York,Cash,447.26
+INV1701,195,Male,25,Clothing,1034,1,74.46,09-08-2023,New York,Cash,74.46
+INV1702,146,Male,31,Clothing,1055,3,309.56,07-10-2023,Chicago,Mobile Payment,928.68
+INV1703,152,Female,47,Electronics,1013,4,611.87,12-06-2023,Chicago,Mobile Payment,2447.48
+INV1704,215,Male,47,Grocery,1012,2,655.89,31-07-2023,New York,Credit Card,1311.78
+INV1705,192,Female,41,Toys,1052,3,712.78,04-01-2023,Phoenix,Mobile Payment,2138.34
+INV1706,241,Male,23,Furniture,1090,5,18.67,07-05-2023,New York,Credit Card,93.35
+INV1707,250,Female,23,Electronics,1045,1,493.64,04-02-2023,New York,Credit Card,493.64
+INV1708,183,Male,39,Electronics,1007,6,377.95,16-07-2023,Los Angeles,Credit Card,2267.7
+INV1709,175,Male,32,Grocery,1006,3,403.44,04-08-2023,New York,Cash,1210.32
+INV1710,111,Male,21,Grocery,1019,3,67.58,27-03-2023,Los Angeles,Credit Card,202.74
+INV1711,131,Male,42,Grocery,1065,2,337.68,26-07-2023,Houston,Credit Card,675.36
+INV1712,266,Female,37,Electronics,1095,4,333.23,13-03-2023,New York,Credit Card,1332.92
+INV1713,149,Female,41,Clothing,1013,6,633.65,18-10-2023,New York,Credit Card,3801.9
+INV1714,244,Male,62,Clothing,1038,6,182.23,26-06-2023,New York,Debit Card,1093.38
+INV1715,144,Female,33,Grocery,1015,3,435.81,13-01-2023,Los Angeles,Credit Card,1307.43
+INV1716,223,Female,54,Electronics,1096,8,730.46,12-05-2023,New York,Debit Card,5843.68
+INV1717,135,Female,23,Furniture,1045,5,790.78,22-03-2023,Houston,Debit Card,3953.9
+INV1718,158,Male,57,Electronics,1073,1,111.74,26-10-2023,Houston,Credit Card,111.74
+INV1719,248,Male,22,Electronics,1038,4,157.34,22-10-2023,New York,Mobile Payment,629.36
+INV1720,265,Female,46,Electronics,1039,7,376.06,28-03-2023,Houston,Credit Card,2632.42
+INV1721,163,Female,28,Toys,1006,4,296.54,19-12-2023,New York,Credit Card,1186.16
+INV1722,103,Male,21,Furniture,1043,3,93.54,03-08-2023,New York,Credit Card,280.62
+INV1723,164,Female,33,Electronics,1048,5,253.81,30-08-2023,New York,Cash,1269.05
+INV1724,298,Male,52,Grocery,1049,4,501.65,01-03-2023,Chicago,Cash,2006.6
+INV1725,228,Male,36,Clothing,1029,4,404.97,20-12-2023,New York,Credit Card,1619.88
+INV1726,204,Female,18,Clothing,1055,5,80.9,11-10-2023,New York,Credit Card,404.5
+INV1727,288,Female,22,Clothing,1061,4,467.22,06-06-2023,New York,Mobile Payment,1868.88
+INV1728,244,Female,19,Clothing,1090,1,407.64,10-04-2023,New York,Cash,407.64
+INV1729,299,Male,62,Toys,1005,1,29.76,07-02-2023,New York,Credit Card,29.76
+INV1730,188,Male,33,Furniture,1035,5,465.62,27-01-2023,Houston,Debit Card,2328.1
+INV1731,161,Female,48,Clothing,1005,7,567.92,13-08-2023,Chicago,Credit Card,3975.44
+INV1732,189,Male,26,Electronics,1078,5,369,19-09-2023,Phoenix,Mobile Payment,1845
+INV1733,142,Male,25,Toys,1038,4,51.86,12-04-2023,Los Angeles,Debit Card,207.44
+INV1734,166,Female,53,Clothing,1056,9,549.52,17-06-2023,New York,Debit Card,4945.68
+INV1735,159,Female,48,Electronics,1032,7,91.18,02-08-2023,Chicago,Mobile Payment,638.26
+INV1736,224,Female,34,Toys,1082,3,298.83,11-04-2023,Los Angeles,Debit Card,896.49
+INV1737,250,Female,57,Electronics,1054,1,482.67,31-05-2023,Houston,Debit Card,482.67
+INV1738,127,Male,22,Furniture,1037,6,765.79,01-02-2023,Los Angeles,Mobile Payment,4594.74
+INV1739,153,Female,58,Furniture,1026,9,221.63,19-03-2023,Los Angeles,Cash,1994.67
+INV1740,168,Female,42,Clothing,1027,6,474.47,09-03-2023,Phoenix,Credit Card,2846.82
+INV1741,261,Male,57,Toys,1013,5,411.91,26-02-2023,Los Angeles,Credit Card,2059.55
+INV1742,195,Male,24,Furniture,1077,6,445.38,06-07-2023,New York,Cash,2672.28
+INV1743,185,Female,61,Clothing,1044,1,439.2,01-07-2023,Los Angeles,Mobile Payment,439.2
+INV1744,169,Male,58,Electronics,1008,3,601.29,06-06-2023,New York,Mobile Payment,1803.87
+INV1745,200,Female,19,Clothing,1068,5,257.61,17-07-2023,Houston,Credit Card,1288.05
+INV1746,216,Male,28,Clothing,1030,8,430.13,21-01-2023,Phoenix,Credit Card,3441.04
+INV1747,255,Male,19,Clothing,1041,4,710.37,11-04-2023,New York,Credit Card,2841.48
+INV1748,136,Male,46,Grocery,1041,5,762.66,23-08-2023,Houston,Cash,3813.3
+INV1749,166,Male,50,Electronics,1096,2,520.05,14-09-2023,Chicago,Debit Card,1040.1
+INV1750,178,Male,39,Electronics,1028,8,411.16,14-01-2023,New York,Credit Card,3289.28
+INV1751,171,Female,60,Grocery,1016,3,774.33,30-04-2023,New York,Credit Card,2322.99
+INV1752,101,Male,28,Toys,1058,4,371.28,16-05-2023,Los Angeles,Mobile Payment,1485.12
+INV1753,205,Female,62,Clothing,1099,5,232.6,12-01-2023,Chicago,Credit Card,1163
+INV1754,163,Male,58,Grocery,1081,4,545.34,02-06-2023,Chicago,Credit Card,2181.36
+INV1755,159,Female,33,Electronics,1001,3,751.12,29-08-2023,Chicago,Debit Card,2253.36
+INV1756,211,Male,23,Clothing,1053,4,571.24,01-01-2023,Los Angeles,Credit Card,2284.96
+INV1757,287,Male,36,Grocery,1092,5,199.75,16-11-2023,Chicago,Credit Card,998.75
+INV1758,167,Female,60,Clothing,1003,2,153.13,12-02-2023,Phoenix,Debit Card,306.26
+INV1759,195,Male,20,Electronics,1033,3,152.17,21-10-2023,New York,Credit Card,456.51
+INV1760,122,Male,40,Clothing,1092,1,734.92,04-08-2023,Los Angeles,Cash,734.92
+INV1761,254,Female,38,Clothing,1039,3,386.92,19-11-2023,New York,Mobile Payment,1160.76
+INV1762,156,Female,25,Grocery,1062,3,556.44,24-02-2023,Chicago,Credit Card,1669.32
+INV1763,147,Male,51,Clothing,1019,4,348.7,27-02-2023,Chicago,Cash,1394.8
+INV1764,281,Male,61,Clothing,1029,4,542.37,29-08-2023,Phoenix,Credit Card,2169.48
+INV1765,277,Male,28,Clothing,1024,5,787.27,30-12-2023,New York,Credit Card,3936.35
+INV1766,181,Male,52,Clothing,1070,3,390.24,22-03-2023,Los Angeles,Mobile Payment,1170.72
+INV1767,193,Male,41,Electronics,1027,4,31.56,27-03-2023,New York,Credit Card,126.24
+INV1768,213,Male,49,Furniture,1003,2,45.46,20-09-2023,Los Angeles,Debit Card,90.92
+INV1769,154,Female,28,Clothing,1028,2,434.57,08-09-2023,Los Angeles,Debit Card,869.14
+INV1770,202,Male,39,Clothing,1031,6,605.98,09-10-2023,New York,Mobile Payment,3635.88
+INV1771,291,Male,19,Electronics,1058,2,777.7,28-02-2023,Phoenix,Mobile Payment,1555.4
+INV1772,125,Female,57,Electronics,1021,5,767.65,01-01-2023,New York,Cash,3838.25
+INV1773,221,Male,27,Furniture,1021,4,350.69,10-02-2023,New York,Credit Card,1402.76
+INV1774,263,Female,63,Electronics,1018,3,136.9,22-06-2023,Phoenix,Debit Card,410.7
+INV1775,226,Female,64,Toys,1097,5,490.22,22-05-2023,Phoenix,Mobile Payment,2451.1
+INV1776,293,Male,36,Electronics,1033,1,694.17,20-03-2023,Los Angeles,Credit Card,694.17
+INV1777,118,Male,44,Electronics,1089,3,333.42,25-04-2023,Los Angeles,Mobile Payment,1000.26
+INV1778,126,Male,26,Grocery,1017,5,403.26,22-10-2023,New York,Credit Card,2016.3
+INV1779,208,Female,27,Electronics,1099,7,716.21,07-12-2023,Chicago,Cash,5013.47
+INV1780,171,Male,29,Furniture,1050,2,206.75,09-03-2023,Chicago,Debit Card,413.5
+INV1781,131,Female,52,Electronics,1023,1,621.75,31-05-2023,Chicago,Credit Card,621.75
+INV1782,217,Male,55,Toys,1007,2,438.15,28-10-2023,New York,Cash,876.3
+INV1783,112,Male,39,Clothing,1099,5,785.34,30-12-2023,New York,Mobile Payment,3926.7
+INV1784,186,Female,27,Toys,1016,3,723.33,02-04-2023,Los Angeles,Credit Card,2169.99
+INV1785,135,Female,41,Toys,1029,4,183.08,28-03-2023,Los Angeles,Debit Card,732.32
+INV1786,284,Female,37,Grocery,1035,7,714.15,22-03-2023,Chicago,Credit Card,4999.05
+INV1787,151,Male,30,Grocery,1006,5,84.84,08-08-2023,New York,Mobile Payment,424.2
+INV1788,184,Female,24,Clothing,1094,4,43.16,20-07-2023,Los Angeles,Cash,172.64
+INV1789,223,Female,55,Electronics,1080,6,553.9,27-12-2023,New York,Cash,3323.4
+INV1790,102,Male,63,Furniture,1040,5,204.85,16-08-2023,Los Angeles,Cash,1024.25
+INV1791,208,Female,54,Toys,1075,3,726.49,02-10-2023,Houston,Credit Card,2179.47
+INV1792,121,Female,47,Grocery,1093,1,18.45,09-01-2023,Los Angeles,Credit Card,18.45
+INV1793,260,Male,45,Furniture,1058,4,239.62,16-08-2023,Houston,Credit Card,958.48
+INV1794,164,Male,25,Toys,1008,2,309.45,24-04-2023,Los Angeles,Mobile Payment,618.9
+INV1795,178,Male,27,Clothing,1093,5,721.37,03-10-2023,Houston,Credit Card,3606.85
+INV1796,245,Male,62,Electronics,1068,8,780.92,04-07-2023,New York,Cash,6247.36
+INV1797,149,Female,62,Grocery,1070,5,329.32,16-04-2023,Chicago,Debit Card,1646.6
+INV1798,245,Female,39,Clothing,1020,5,132.39,02-04-2023,Los Angeles,Credit Card,661.95
+INV1799,152,Male,30,Clothing,1049,7,783.02,13-07-2023,New York,Cash,5481.14
+INV1800,232,Male,35,Electronics,1070,3,148.7,18-01-2023,New York,Cash,446.1
+INV1801,131,Female,60,Electronics,1089,2,380.14,19-04-2023,New York,Debit Card,760.28
+INV1802,149,Female,23,Clothing,1093,6,280.55,11-03-2023,New York,Mobile Payment,1683.3
+INV1803,253,Male,59,Electronics,1038,2,478.11,20-04-2023,Houston,Mobile Payment,956.22
+INV1804,161,Female,44,Clothing,1043,6,158.24,20-11-2023,New York,Credit Card,949.44
+INV1805,203,Male,27,Toys,1032,6,705.67,02-06-2023,Los Angeles,Credit Card,4234.02
+INV1806,229,Male,18,Electronics,1068,7,199.8,08-07-2023,New York,Mobile Payment,1398.6
+INV1807,209,Male,54,Grocery,1013,3,388.55,13-07-2023,Chicago,Mobile Payment,1165.65
+INV1808,113,Male,40,Furniture,1021,6,98.77,03-10-2023,Phoenix,Mobile Payment,592.62
+INV1809,123,Female,32,Clothing,1030,5,576.4,23-08-2023,Chicago,Credit Card,2882
+INV1810,133,Female,37,Clothing,1064,3,410.95,03-12-2023,Houston,Credit Card,1232.85
+INV1811,199,Male,60,Electronics,1063,5,376.71,10-11-2023,Chicago,Cash,1883.55
+INV1812,237,Male,28,Grocery,1090,7,716.78,10-02-2023,New York,Mobile Payment,5017.46
+INV1813,210,Male,28,Electronics,1004,2,768.73,13-09-2023,Phoenix,Debit Card,1537.46
+INV1814,135,Male,39,Grocery,1001,4,523.15,27-08-2023,Los Angeles,Credit Card,2092.6
+INV1815,297,Female,22,Electronics,1015,7,212.44,25-12-2023,Chicago,Debit Card,1487.08
+INV1816,223,Male,56,Furniture,1074,7,762.11,06-06-2023,Phoenix,Mobile Payment,5334.77
+INV1817,184,Male,56,Grocery,1015,8,54.77,09-11-2023,New York,Credit Card,438.16
+INV1818,154,Male,63,Clothing,1013,4,528.86,15-12-2023,Chicago,Mobile Payment,2115.44
+INV1819,127,Female,45,Furniture,1098,5,103.8,15-01-2023,Chicago,Mobile Payment,519
+INV1820,295,Female,53,Electronics,1066,4,644.6,09-02-2023,Chicago,Cash,2578.4
+INV1821,137,Female,53,Furniture,1087,5,222.13,09-12-2023,Houston,Mobile Payment,1110.65
+INV1822,132,Female,38,Electronics,1027,4,367.38,11-10-2023,Los Angeles,Cash,1469.52
+INV1823,146,Male,50,Electronics,1079,3,25.12,11-04-2023,New York,Credit Card,75.36
+INV1824,208,Female,32,Electronics,1022,4,450.56,06-04-2023,Los Angeles,Mobile Payment,1802.24
+INV1825,180,Male,24,Toys,1011,2,798.83,24-05-2023,Phoenix,Credit Card,1597.66
+INV1826,232,Female,52,Clothing,1077,3,185.35,27-11-2023,Houston,Credit Card,556.05
+INV1827,232,Female,58,Clothing,1010,3,559.3,26-01-2023,New York,Credit Card,1677.9
+INV1828,126,Female,23,Toys,1039,4,204.74,29-03-2023,Los Angeles,Credit Card,818.96
+INV1829,160,Male,38,Electronics,1027,2,54.04,15-08-2023,Chicago,Credit Card,108.08
+INV1830,287,Male,38,Toys,1005,3,498.23,04-12-2023,Chicago,Mobile Payment,1494.69
+INV1831,199,Female,23,Clothing,1003,5,770.44,30-06-2023,New York,Cash,3852.2
+INV1832,168,Female,60,Furniture,1090,3,649.7,12-02-2023,New York,Mobile Payment,1949.1
+INV1833,251,Male,33,Grocery,1046,9,773.48,03-05-2023,New York,Credit Card,6961.32
+INV1834,272,Female,47,Electronics,1064,2,764.25,17-09-2023,New York,Cash,1528.5
+INV1835,252,Female,60,Furniture,1034,7,477.88,21-04-2023,Phoenix,Credit Card,3345.16
+INV1836,174,Male,47,Clothing,1047,3,522.77,11-11-2023,Chicago,Cash,1568.31
+INV1837,131,Female,31,Grocery,1030,4,124.15,14-03-2023,Chicago,Mobile Payment,496.6
+INV1838,176,Female,18,Clothing,1094,2,414.74,07-04-2023,Houston,Credit Card,829.48
+INV1839,211,Male,27,Toys,1021,3,346.68,15-11-2023,Los Angeles,Mobile Payment,1040.04
+INV1840,190,Male,51,Grocery,1047,3,672.19,18-12-2023,Los Angeles,Cash,2016.57
+INV1841,166,Male,26,Electronics,1082,4,179.09,31-03-2023,Houston,Credit Card,716.36
+INV1842,208,Male,24,Toys,1074,2,268.33,17-02-2023,Chicago,Mobile Payment,536.66
+INV1843,178,Female,35,Electronics,1027,3,128.05,09-04-2023,Houston,Mobile Payment,384.15
+INV1844,261,Female,61,Electronics,1079,4,483.41,19-02-2023,Phoenix,Credit Card,1933.64
+INV1845,211,Female,47,Grocery,1077,4,497.7,12-06-2023,Phoenix,Credit Card,1990.8
+INV1846,171,Female,20,Furniture,1063,4,326.02,24-08-2023,Los Angeles,Cash,1304.08
+INV1847,117,Male,22,Clothing,1021,5,39.95,09-09-2023,Houston,Debit Card,199.75
+INV1848,288,Female,50,Grocery,1010,5,488.97,15-11-2023,Phoenix,Credit Card,2444.85
+INV1849,212,Male,49,Toys,1065,6,310.81,07-01-2023,Chicago,Credit Card,1864.86
+INV1850,156,Female,26,Toys,1036,5,733.35,26-07-2023,New York,Credit Card,3666.75
+INV1851,160,Female,28,Clothing,1042,1,757.25,22-05-2023,Los Angeles,Credit Card,757.25
+INV1852,112,Female,55,Furniture,1083,4,357.1,16-01-2023,Los Angeles,Mobile Payment,1428.4
+INV1853,209,Female,18,Grocery,1062,3,545.59,26-12-2023,New York,Credit Card,1636.77
+INV1854,115,Female,38,Furniture,1084,3,176.46,01-12-2023,New York,Mobile Payment,529.38
+INV1855,253,Female,23,Grocery,1000,5,218.44,21-06-2023,Los Angeles,Credit Card,1092.2
+INV1856,253,Male,43,Electronics,1024,5,690.99,28-02-2023,New York,Cash,3454.95
+INV1857,107,Female,23,Electronics,1056,3,408.02,26-11-2023,Los Angeles,Mobile Payment,1224.06
+INV1858,274,Male,37,Toys,1079,3,270.18,24-05-2023,Chicago,Credit Card,810.54
+INV1859,250,Male,28,Electronics,1084,7,387.15,14-05-2023,Houston,Credit Card,2710.05
+INV1860,282,Male,36,Electronics,1074,3,42.99,14-01-2023,Phoenix,Debit Card,128.97
+INV1861,289,Female,36,Clothing,1030,5,167.58,24-07-2023,Chicago,Credit Card,837.9
+INV1862,129,Female,38,Grocery,1034,4,457.69,21-02-2023,New York,Mobile Payment,1830.76
+INV1863,237,Male,48,Clothing,1042,6,445.46,20-01-2023,Phoenix,Mobile Payment,2672.76
+INV1864,293,Female,31,Toys,1001,5,650.96,12-07-2023,New York,Cash,3254.8
+INV1865,110,Male,23,Electronics,1095,5,781.95,01-03-2023,Los Angeles,Cash,3909.75
+INV1866,177,Female,61,Electronics,1068,4,346.39,09-08-2023,Chicago,Mobile Payment,1385.56
+INV1867,107,Female,44,Clothing,1085,2,332.52,29-09-2023,Chicago,Cash,665.04
+INV1868,266,Female,30,Clothing,1049,4,260.72,21-01-2023,Los Angeles,Debit Card,1042.88
+INV1869,200,Female,18,Clothing,1041,5,544.25,13-12-2023,New York,Debit Card,2721.25
+INV1870,203,Male,29,Electronics,1028,6,742.34,11-04-2023,Houston,Debit Card,4454.04
+INV1871,284,Male,19,Electronics,1053,4,294.45,09-11-2023,Houston,Cash,1177.8
+INV1872,129,Male,26,Electronics,1052,5,695.05,09-09-2023,Houston,Cash,3475.25
+INV1873,165,Female,23,Furniture,1020,4,326.65,25-08-2023,New York,Mobile Payment,1306.6
+INV1874,179,Female,40,Furniture,1011,3,762.89,11-07-2023,Los Angeles,Mobile Payment,2288.67
+INV1875,125,Female,41,Grocery,1084,7,194.46,19-04-2023,Los Angeles,Credit Card,1361.22
+INV1876,175,Male,24,Furniture,1043,2,555.09,26-05-2023,Los Angeles,Credit Card,1110.18
+INV1877,212,Male,41,Grocery,1023,2,468.25,25-02-2023,New York,Credit Card,936.5
+INV1878,194,Female,56,Electronics,1010,2,716.91,21-12-2023,New York,Credit Card,1433.82
+INV1879,259,Male,42,Electronics,1049,4,611.06,04-06-2023,New York,Cash,2444.24
+INV1880,182,Male,59,Furniture,1075,2,242.84,26-05-2023,New York,Cash,485.68
+INV1881,108,Female,55,Electronics,1090,4,439.75,07-05-2023,Phoenix,Mobile Payment,1759
+INV1882,268,Male,33,Furniture,1077,4,761.17,09-01-2023,New York,Debit Card,3044.68
+INV1883,128,Male,44,Toys,1032,5,394.4,02-04-2023,New York,Credit Card,1972
+INV1884,210,Female,51,Toys,1088,3,190.88,11-03-2023,New York,Credit Card,572.64
+INV1885,284,Male,53,Clothing,1080,5,276.93,10-08-2023,Houston,Debit Card,1384.65
+INV1886,280,Female,31,Clothing,1001,4,589.99,21-05-2023,Los Angeles,Credit Card,2359.96
+INV1887,125,Male,34,Clothing,1011,4,312.97,23-03-2023,Chicago,Credit Card,1251.88
+INV1888,236,Female,37,Electronics,1095,5,317.79,20-12-2023,Houston,Mobile Payment,1588.95
+INV1889,174,Male,38,Electronics,1026,5,601.04,15-01-2023,Chicago,Credit Card,3005.2
+INV1890,108,Male,45,Grocery,1089,5,456.42,30-05-2023,New York,Credit Card,2282.1
+INV1891,203,Female,22,Clothing,1058,5,382.23,31-01-2023,Los Angeles,Cash,1911.15
+INV1892,256,Male,46,Clothing,1082,4,141.91,19-11-2023,New York,Cash,567.64
+INV1893,262,Female,54,Clothing,1008,2,653.87,04-04-2023,Los Angeles,Mobile Payment,1307.74
+INV1894,173,Female,58,Clothing,1097,2,151.39,25-08-2023,New York,Credit Card,302.78
+INV1895,252,Male,49,Grocery,1003,5,566.22,29-08-2023,New York,Cash,2831.1
+INV1896,198,Female,25,Clothing,1054,2,215.62,08-06-2023,Phoenix,Cash,431.24
+INV1897,187,Male,37,Clothing,1030,3,567.95,20-11-2023,Phoenix,Debit Card,1703.85
+INV1898,272,Male,58,Toys,1001,5,45.83,20-08-2023,Houston,Cash,229.15
+INV1899,101,Female,51,Clothing,1040,3,716.35,20-07-2023,New York,Mobile Payment,2149.05
+INV1900,222,Female,62,Clothing,1025,4,558.57,27-01-2023,Los Angeles,Mobile Payment,2234.28
+INV1901,239,Male,26,Electronics,1033,4,357.86,13-09-2023,Chicago,Debit Card,1431.44
+INV1902,287,Female,62,Clothing,1065,7,269.8,17-09-2023,Los Angeles,Mobile Payment,1888.6
+INV1903,138,Male,45,Electronics,1018,3,566.06,02-05-2023,New York,Debit Card,1698.18
+INV1904,291,Female,18,Toys,1068,4,342.57,01-11-2023,Houston,Cash,1370.28
+INV1905,229,Female,35,Clothing,1067,4,665.08,26-09-2023,New York,Credit Card,2660.32
+INV1906,239,Male,39,Grocery,1088,5,791.23,11-06-2023,Chicago,Mobile Payment,3956.15
+INV1907,266,Male,59,Grocery,1008,2,721.38,23-09-2023,Houston,Cash,1442.76
+INV1908,172,Female,38,Clothing,1060,5,85.26,14-04-2023,Los Angeles,Credit Card,426.3
+INV1909,187,Male,50,Grocery,1007,10,782.84,31-10-2023,Houston,Cash,7828.4
+INV1910,197,Male,23,Grocery,1093,4,775.27,21-06-2023,Houston,Credit Card,3101.08
+INV1911,266,Male,32,Grocery,1064,2,64.26,02-01-2023,New York,Mobile Payment,128.52
+INV1912,281,Female,54,Grocery,1072,4,12.23,30-08-2023,Los Angeles,Debit Card,48.92
+INV1913,128,Male,49,Electronics,1092,5,702.28,17-09-2023,Chicago,Credit Card,3511.4
+INV1914,112,Male,29,Electronics,1003,2,406.82,07-02-2023,New York,Credit Card,813.64
+INV1915,292,Female,35,Electronics,1097,5,783.53,02-04-2023,Phoenix,Mobile Payment,3917.65
+INV1916,253,Male,22,Clothing,1016,3,781.21,20-11-2023,Phoenix,Credit Card,2343.63
+INV1917,215,Male,19,Electronics,1063,3,573.77,08-01-2023,Chicago,Mobile Payment,1721.31
+INV1918,227,Male,40,Electronics,1088,3,76.26,20-10-2023,Chicago,Credit Card,228.78
+INV1919,299,Male,59,Grocery,1004,4,366,23-12-2023,New York,Cash,1464
+INV1920,200,Female,32,Clothing,1080,4,637.62,25-03-2023,New York,Mobile Payment,2550.48
+INV1921,155,Female,32,Electronics,1032,6,330.39,11-10-2023,Los Angeles,Cash,1982.34
+INV1922,285,Female,24,Grocery,1037,4,733.14,25-04-2023,New York,Cash,2932.56
+INV1923,113,Female,21,Electronics,1025,3,496.12,23-10-2023,New York,Debit Card,1488.36
+INV1924,168,Female,39,Clothing,1091,5,432.9,19-09-2023,Chicago,Credit Card,2164.5
+INV1925,142,Male,58,Clothing,1028,6,174.71,30-11-2023,New York,Cash,1048.26
+INV1926,126,Male,58,Electronics,1067,8,678.07,18-12-2023,Los Angeles,Mobile Payment,5424.56
+INV1927,191,Female,28,Electronics,1082,4,276.74,04-01-2023,Los Angeles,Credit Card,1106.96
+INV1928,225,Male,64,Clothing,1019,1,75.34,14-08-2023,New York,Credit Card,75.34
+INV1929,258,Male,47,Furniture,1064,2,177.78,25-01-2023,Houston,Debit Card,355.56
+INV1930,100,Female,60,Electronics,1030,7,415.33,31-01-2023,Houston,Credit Card,2907.31
+INV1931,257,Male,43,Furniture,1098,3,564.67,25-10-2023,New York,Credit Card,1694.01
+INV1932,253,Male,31,Grocery,1064,4,555.19,20-11-2023,Houston,Mobile Payment,2220.76
+INV1933,260,Male,19,Electronics,1017,3,617.31,24-08-2023,Chicago,Credit Card,1851.93
+INV1934,235,Male,45,Toys,1006,4,719.7,13-08-2023,New York,Cash,2878.8
+INV1935,129,Male,30,Furniture,1047,2,693.43,31-05-2023,Chicago,Mobile Payment,1386.86
+INV1936,109,Female,53,Toys,1055,4,786.23,23-08-2023,New York,Credit Card,3144.92
+INV1937,114,Female,30,Furniture,1061,1,650.43,10-08-2023,New York,Credit Card,650.43
+INV1938,158,Female,37,Electronics,1046,2,534.07,17-03-2023,Houston,Debit Card,1068.14
+INV1939,167,Female,26,Furniture,1031,7,222.06,08-02-2023,Chicago,Credit Card,1554.42
+INV1940,186,Male,20,Grocery,1060,2,622.86,16-12-2023,Los Angeles,Cash,1245.72
+INV1941,123,Female,59,Clothing,1038,7,482.31,17-07-2023,New York,Cash,3376.17
+INV1942,122,Female,59,Clothing,1078,4,76.26,24-11-2023,Chicago,Credit Card,305.04
+INV1943,206,Female,50,Clothing,1012,3,716.28,21-04-2023,Houston,Debit Card,2148.84
+INV1944,172,Female,54,Electronics,1098,4,130.78,18-10-2023,New York,Credit Card,523.12
+INV1945,120,Male,38,Grocery,1074,4,139.7,25-07-2023,Phoenix,Debit Card,558.8
+INV1946,179,Female,53,Toys,1045,4,756.21,29-12-2023,Chicago,Mobile Payment,3024.84
+INV1947,205,Female,34,Electronics,1038,4,670.15,14-01-2023,Los Angeles,Mobile Payment,2680.6
+INV1948,213,Male,60,Electronics,1047,6,314.5,14-12-2023,Los Angeles,Cash,1887
+INV1949,295,Male,39,Electronics,1084,4,473.44,09-03-2023,Los Angeles,Cash,1893.76
+INV1950,271,Female,49,Furniture,1088,3,13.23,05-08-2023,Los Angeles,Debit Card,39.69
+INV1951,152,Female,52,Electronics,1054,7,36.85,20-06-2023,New York,Debit Card,257.95
+INV1952,138,Male,20,Electronics,1031,6,302.32,01-05-2023,Los Angeles,Mobile Payment,1813.92
+INV1953,259,Male,49,Furniture,1033,3,65.4,22-02-2023,Phoenix,Cash,196.2
+INV1954,193,Female,45,Furniture,1022,6,699.07,10-02-2023,Los Angeles,Mobile Payment,4194.42
+INV1955,168,Female,60,Electronics,1054,1,217.64,25-12-2023,Chicago,Credit Card,217.64
+INV1956,134,Male,57,Clothing,1048,4,525.58,26-05-2023,New York,Debit Card,2102.32
+INV1957,121,Male,52,Electronics,1090,4,410.42,25-12-2023,New York,Debit Card,1641.68
+INV1958,297,Female,63,Grocery,1030,3,359.37,11-04-2023,Houston,Debit Card,1078.11
+INV1959,248,Female,29,Grocery,1081,6,609.65,31-05-2023,Houston,Debit Card,3657.9
+INV1960,277,Female,24,Furniture,1062,6,705.59,05-04-2023,Phoenix,Credit Card,4233.54
+INV1961,154,Male,52,Grocery,1061,4,29.9,29-07-2023,Houston,Credit Card,119.6
+INV1962,207,Male,22,Clothing,1030,3,520.34,30-07-2023,Los Angeles,Mobile Payment,1561.02
+INV1963,236,Female,48,Grocery,1061,2,574.27,06-11-2023,Phoenix,Credit Card,1148.54
+INV1964,194,Male,27,Electronics,1077,7,256.02,21-11-2023,New York,Debit Card,1792.14
+INV1965,275,Female,55,Clothing,1013,3,728.38,18-10-2023,New York,Credit Card,2185.14
+INV1966,108,Female,47,Grocery,1010,3,688.04,26-04-2023,New York,Credit Card,2064.12
+INV1967,217,Male,53,Clothing,1090,5,235.04,19-03-2023,Los Angeles,Cash,1175.2
+INV1968,189,Male,21,Electronics,1015,5,76.85,31-10-2023,Chicago,Debit Card,384.25
+INV1969,116,Female,46,Grocery,1002,3,533.5,17-11-2023,Houston,Debit Card,1600.5
+INV1970,159,Male,19,Grocery,1057,7,713.47,16-11-2023,Los Angeles,Credit Card,4994.29
+INV1971,196,Male,38,Electronics,1082,6,749.75,11-06-2023,New York,Credit Card,4498.5
+INV1972,115,Female,48,Grocery,1060,4,154.51,07-02-2023,Phoenix,Credit Card,618.04
+INV1973,137,Female,43,Electronics,1066,4,765.81,28-05-2023,Los Angeles,Mobile Payment,3063.24
+INV1974,157,Male,37,Grocery,1027,5,428.62,15-11-2023,New York,Debit Card,2143.1
+INV1975,263,Male,19,Clothing,1034,4,488.49,29-05-2023,New York,Cash,1953.96
+INV1976,203,Male,25,Furniture,1006,4,573.92,10-09-2023,Houston,Cash,2295.68
+INV1977,170,Male,35,Furniture,1029,2,118.85,21-09-2023,Los Angeles,Credit Card,237.7
+INV1978,176,Male,45,Grocery,1027,7,713.89,09-11-2023,Los Angeles,Credit Card,4997.23
+INV1979,141,Male,48,Clothing,1043,5,140.01,19-10-2023,Chicago,Cash,700.05
+INV1980,297,Male,32,Grocery,1020,2,41.97,22-04-2023,New York,Credit Card,83.94
+INV1981,152,Male,30,Grocery,1082,3,315.43,09-03-2023,New York,Mobile Payment,946.29
+INV1982,139,Male,60,Toys,1030,3,71.69,01-09-2023,New York,Credit Card,215.07
+INV1983,175,Female,18,Clothing,1063,6,188.19,29-06-2023,Chicago,Credit Card,1129.14
+INV1984,179,Male,24,Furniture,1010,2,117.56,06-01-2023,New York,Debit Card,235.12
+INV1985,107,Female,52,Electronics,1074,3,156.32,02-05-2023,Chicago,Debit Card,468.96
+INV1986,125,Female,27,Clothing,1085,5,55.38,09-03-2023,New York,Credit Card,276.9
+INV1987,182,Female,46,Furniture,1039,5,408.51,26-11-2023,New York,Credit Card,2042.55
+INV1988,133,Male,28,Grocery,1079,3,412.63,04-10-2023,Phoenix,Cash,1237.89
+INV1989,142,Female,59,Grocery,1024,1,66.43,09-03-2023,Chicago,Credit Card,66.43
+INV1990,254,Female,53,Furniture,1045,2,64.92,05-08-2023,Houston,Credit Card,129.84
+INV1991,134,Male,63,Electronics,1089,8,28.96,08-07-2023,New York,Credit Card,231.68
+INV1992,120,Female,48,Grocery,1009,3,783.55,06-07-2023,Chicago,Credit Card,2350.65
+INV1993,292,Female,40,Electronics,1043,2,676.29,07-07-2023,Los Angeles,Mobile Payment,1352.58
+INV1994,262,Female,62,Toys,1037,2,216.87,19-03-2023,Los Angeles,Credit Card,433.74
+INV1995,282,Female,18,Grocery,1068,3,97.39,30-10-2023,Houston,Credit Card,292.17
+INV1996,253,Female,40,Electronics,1091,7,175.37,11-04-2023,New York,Cash,1227.59
+INV1997,123,Male,44,Clothing,1087,9,598.26,23-07-2023,New York,Credit Card,5384.34
+INV1998,279,Male,34,Electronics,1004,2,19.62,15-05-2023,Houston,Cash,39.24
+INV1999,297,Male,59,Clothing,1041,1,73.04,28-03-2023,Los Angeles,Mobile Payment,73.04
+INV2000,226,Female,28,Toys,1091,3,586.66,15-08-2023,Phoenix,Credit Card,1759.98
+INV2001,280,Female,40,Electronics,1006,6,352.5,09-12-2023,New York,Mobile Payment,2115
+INV2002,200,Male,18,Grocery,1031,6,353.42,14-05-2023,Chicago,Credit Card,2120.52
+INV2003,199,Female,61,Clothing,1061,6,371.49,04-05-2023,Los Angeles,Credit Card,2228.94
+INV2004,213,Male,58,Clothing,1093,3,677.2,02-03-2023,New York,Mobile Payment,2031.6
+INV2005,286,Female,29,Clothing,1085,4,470.49,30-03-2023,New York,Mobile Payment,1881.96
+INV2006,245,Male,26,Electronics,1035,1,701.63,25-09-2023,New York,Mobile Payment,701.63
+INV2007,247,Female,31,Electronics,1022,3,189.98,12-11-2023,Houston,Mobile Payment,569.94
+INV2008,135,Male,33,Clothing,1073,4,332.59,28-04-2023,Chicago,Cash,1330.36
+INV2009,220,Female,34,Grocery,1030,4,701.91,16-03-2023,New York,Cash,2807.64
+INV2010,198,Male,44,Grocery,1029,5,678.18,28-07-2023,Los Angeles,Mobile Payment,3390.9
+INV2011,295,Male,30,Clothing,1015,2,165.06,07-10-2023,Houston,Mobile Payment,330.12
+INV2012,222,Female,26,Electronics,1074,3,637.88,29-06-2023,Los Angeles,Credit Card,1913.64
+INV2013,132,Female,49,Electronics,1067,4,585.55,11-11-2023,Los Angeles,Debit Card,2342.2
+INV2014,184,Female,62,Electronics,1035,7,658.96,02-05-2023,Chicago,Credit Card,4612.72
+INV2015,146,Male,27,Grocery,1093,2,72.5,12-10-2023,New York,Credit Card,145
+INV2016,200,Male,55,Grocery,1093,5,293.08,10-11-2023,Los Angeles,Debit Card,1465.4
+INV2017,173,Male,37,Grocery,1064,4,233.03,30-06-2023,Los Angeles,Debit Card,932.12
+INV2018,176,Female,39,Furniture,1027,1,244.68,26-01-2023,New York,Cash,244.68
+INV2019,168,Female,31,Grocery,1018,5,601.66,18-11-2023,Los Angeles,Credit Card,3008.3
+INV2020,225,Female,25,Clothing,1093,4,177.29,22-10-2023,Phoenix,Mobile Payment,709.16
+INV2021,179,Female,30,Clothing,1082,2,253.16,19-10-2023,New York,Cash,506.32
+INV2022,160,Female,45,Clothing,1034,3,685.72,04-11-2023,Los Angeles,Mobile Payment,2057.16
+INV2023,127,Female,62,Grocery,1041,3,358.3,11-09-2023,New York,Debit Card,1074.9
+INV2024,165,Male,41,Electronics,1081,6,28.45,05-12-2023,New York,Debit Card,170.7
+INV2025,140,Female,56,Clothing,1066,4,444.97,15-03-2023,Los Angeles,Mobile Payment,1779.88
+INV2026,242,Male,47,Furniture,1092,3,546.12,05-04-2023,Los Angeles,Debit Card,1638.36
+INV2027,268,Female,60,Electronics,1076,5,640.91,29-04-2023,Phoenix,Debit Card,3204.55
+INV2028,225,Female,62,Electronics,1059,5,95.48,23-03-2023,Los Angeles,Credit Card,477.4
+INV2029,292,Female,49,Electronics,1021,3,296.79,11-12-2023,Houston,Credit Card,890.37
+INV2030,137,Female,29,Clothing,1079,9,335.71,17-07-2023,New York,Cash,3021.39
+INV2031,279,Female,32,Grocery,1058,3,380.33,19-05-2023,Houston,Credit Card,1140.99
+INV2032,207,Female,51,Electronics,1090,2,491.23,28-05-2023,Chicago,Credit Card,982.46
+INV2033,106,Male,38,Furniture,1003,3,282.05,13-01-2023,Los Angeles,Mobile Payment,846.15
+INV2034,104,Male,43,Toys,1057,6,681.7,31-10-2023,New York,Cash,4090.2
+INV2035,228,Male,42,Furniture,1056,3,341.83,16-09-2023,Phoenix,Mobile Payment,1025.49
+INV2036,140,Female,41,Clothing,1094,6,331.9,17-08-2023,New York,Credit Card,1991.4
+INV2037,163,Female,52,Furniture,1039,7,226.61,02-02-2023,Los Angeles,Credit Card,1586.27
+INV2038,185,Male,18,Electronics,1093,3,98.54,29-07-2023,New York,Credit Card,295.62
+INV2039,263,Female,62,Grocery,1047,2,766.06,29-08-2023,Houston,Credit Card,1532.12
+INV2040,124,Male,46,Grocery,1078,3,177.06,07-12-2023,Los Angeles,Credit Card,531.18
+INV2041,266,Female,20,Clothing,1091,3,622.15,21-09-2023,New York,Debit Card,1866.45
+INV2042,214,Male,58,Clothing,1062,4,735.54,29-07-2023,New York,Mobile Payment,2942.16
+INV2043,278,Male,51,Electronics,1060,3,406.46,24-06-2023,Houston,Debit Card,1219.38
+INV2044,266,Female,38,Clothing,1068,3,328.45,19-10-2023,Houston,Credit Card,985.35
+INV2045,267,Female,59,Furniture,1085,3,316.27,08-05-2023,New York,Credit Card,948.81
+INV2046,271,Female,40,Furniture,1045,3,545.15,09-03-2023,New York,Credit Card,1635.45
+INV2047,101,Male,52,Toys,1090,8,95.61,03-12-2023,New York,Debit Card,764.88
+INV2048,261,Male,22,Electronics,1085,2,187.99,22-11-2023,Houston,Credit Card,375.98
+INV2049,166,Male,40,Electronics,1075,3,104.01,04-11-2023,Phoenix,Debit Card,312.03
+INV2050,280,Female,45,Clothing,1037,4,583.7,18-01-2023,New York,Credit Card,2334.8
+INV2051,134,Female,27,Electronics,1001,4,197.25,15-12-2023,Los Angeles,Credit Card,789
+INV2052,199,Male,27,Furniture,1057,5,218.25,11-05-2023,New York,Credit Card,1091.25
+INV2053,289,Female,41,Toys,1070,2,489.1,28-12-2023,New York,Cash,978.2
+INV2054,176,Female,63,Toys,1032,3,145.15,27-05-2023,Los Angeles,Credit Card,435.45
+INV2055,102,Female,44,Grocery,1024,1,209.66,06-10-2023,Phoenix,Mobile Payment,209.66
+INV2056,221,Female,50,Furniture,1026,4,223.13,18-09-2023,Chicago,Credit Card,892.52
+INV2057,207,Female,52,Clothing,1001,4,782.77,08-04-2023,Phoenix,Mobile Payment,3131.08
+INV2058,248,Female,53,Electronics,1043,3,605.49,01-04-2023,Chicago,Mobile Payment,1816.47
+INV2059,236,Male,53,Clothing,1042,2,318.15,30-06-2023,New York,Mobile Payment,636.3
+INV2060,202,Male,41,Grocery,1052,3,125.96,24-10-2023,New York,Credit Card,377.88
+INV2061,208,Female,43,Grocery,1057,4,172.91,11-06-2023,Los Angeles,Credit Card,691.64
+INV2062,249,Male,29,Grocery,1024,4,400.17,07-06-2023,New York,Credit Card,1600.68
+INV2063,286,Male,58,Grocery,1035,4,498.71,12-08-2023,Los Angeles,Credit Card,1994.84
+INV2064,287,Male,22,Furniture,1048,6,679.69,24-12-2023,New York,Credit Card,4078.14
+INV2065,273,Male,64,Clothing,1074,3,654.48,29-11-2023,New York,Cash,1963.44
+INV2066,162,Female,61,Clothing,1018,3,293.31,03-01-2023,Houston,Mobile Payment,879.93
+INV2067,177,Male,34,Grocery,1065,5,328.96,10-07-2023,Chicago,Debit Card,1644.8
+INV2068,164,Female,52,Grocery,1090,4,555.08,17-11-2023,Los Angeles,Credit Card,2220.32
+INV2069,233,Male,44,Grocery,1029,3,288.4,26-04-2023,Los Angeles,Credit Card,865.2
+INV2070,132,Female,30,Furniture,1002,3,638.44,30-07-2023,Chicago,Debit Card,1915.32
+INV2071,239,Female,58,Grocery,1090,5,210.92,04-08-2023,Los Angeles,Debit Card,1054.6
+INV2072,204,Female,49,Furniture,1094,2,189.78,23-04-2023,New York,Mobile Payment,379.56
+INV2073,168,Male,43,Toys,1025,3,128.51,03-09-2023,New York,Credit Card,385.53
+INV2074,181,Male,53,Clothing,1074,4,96.97,15-12-2023,New York,Credit Card,387.88
+INV2075,276,Female,25,Furniture,1014,2,399.5,26-04-2023,Houston,Credit Card,799
+INV2076,219,Male,39,Toys,1056,4,509.22,12-07-2023,New York,Cash,2036.88
+INV2077,240,Male,63,Toys,1037,4,60.86,19-04-2023,New York,Mobile Payment,243.44
+INV2078,158,Male,35,Clothing,1097,4,340.13,03-08-2023,Houston,Credit Card,1360.52
+INV2079,249,Female,41,Furniture,1078,2,112.01,01-02-2023,Chicago,Credit Card,224.02
+INV2080,236,Female,28,Electronics,1098,4,268.73,17-02-2023,Phoenix,Debit Card,1074.92
+INV2081,161,Male,56,Clothing,1048,2,435.17,23-01-2023,Los Angeles,Credit Card,870.34
+INV2082,114,Female,55,Toys,1016,2,248.91,19-05-2023,Chicago,Mobile Payment,497.82
+INV2083,110,Male,62,Clothing,1005,5,428.23,31-05-2023,New York,Cash,2141.15
+INV2084,265,Female,43,Furniture,1088,5,303.21,26-09-2023,Houston,Debit Card,1516.05
+INV2085,266,Female,30,Clothing,1068,3,760.35,14-04-2023,Chicago,Credit Card,2281.05
+INV2086,272,Female,35,Clothing,1066,4,232.25,24-09-2023,Los Angeles,Cash,929
+INV2087,117,Male,48,Clothing,1050,4,214.34,23-07-2023,Los Angeles,Cash,857.36
+INV2088,263,Female,39,Electronics,1075,5,382.52,01-04-2023,New York,Credit Card,1912.6
+INV2089,154,Male,64,Grocery,1012,2,33.93,03-07-2023,Los Angeles,Cash,67.86
+INV2090,231,Male,45,Electronics,1037,5,316.73,28-11-2023,Houston,Cash,1583.65
+INV2091,195,Female,62,Electronics,1068,5,378.93,20-08-2023,Los Angeles,Debit Card,1894.65
+INV2092,131,Male,62,Furniture,1093,2,207.32,02-12-2023,New York,Cash,414.64
+INV2093,244,Male,60,Electronics,1055,4,295.53,25-08-2023,New York,Debit Card,1182.12
+INV2094,296,Female,54,Electronics,1092,8,513.7,28-11-2023,Los Angeles,Cash,4109.6
+INV2095,188,Female,57,Electronics,1098,1,468.72,26-12-2023,Los Angeles,Credit Card,468.72
+INV2096,158,Male,56,Toys,1047,7,429.89,02-02-2023,New York,Debit Card,3009.23
+INV2097,261,Female,29,Clothing,1014,2,187.41,04-01-2023,Houston,Debit Card,374.82
+INV2098,286,Male,30,Toys,1074,6,720.28,27-08-2023,Chicago,Credit Card,4321.68
+INV2099,289,Female,35,Grocery,1075,3,254.99,21-09-2023,New York,Credit Card,764.97
+INV2100,222,Female,25,Furniture,1011,6,147.96,01-07-2023,New York,Cash,887.76
+INV2101,268,Male,18,Clothing,1042,3,412.14,13-01-2023,Los Angeles,Cash,1236.42
+INV2102,280,Female,43,Clothing,1093,7,595.69,08-10-2023,Los Angeles,Debit Card,4169.83
+INV2103,156,Male,26,Grocery,1031,6,444.26,01-11-2023,Phoenix,Credit Card,2665.56
+INV2104,292,Female,57,Electronics,1090,4,151.99,10-11-2023,Houston,Debit Card,607.96
+INV2105,265,Male,37,Electronics,1069,6,65.89,08-07-2023,New York,Debit Card,395.34
+INV2106,101,Male,58,Grocery,1028,2,612,16-04-2023,New York,Credit Card,1224
+INV2107,114,Male,36,Electronics,1003,3,86.51,25-01-2023,Chicago,Mobile Payment,259.53
+INV2108,183,Female,62,Clothing,1028,3,233.48,21-07-2023,New York,Mobile Payment,700.44
+INV2109,184,Female,19,Clothing,1040,3,265.94,06-07-2023,Phoenix,Debit Card,797.82
+INV2110,157,Female,35,Toys,1017,4,485.24,23-07-2023,Los Angeles,Cash,1940.96
+INV2111,292,Male,34,Toys,1040,2,794,11-12-2023,Los Angeles,Cash,1588
+INV2112,266,Female,63,Clothing,1044,5,111.11,15-01-2023,Los Angeles,Debit Card,555.55
+INV2113,255,Female,50,Grocery,1080,3,123.45,17-11-2023,Chicago,Mobile Payment,370.35
+INV2114,123,Male,42,Clothing,1076,6,576,14-01-2023,Phoenix,Credit Card,3456
+INV2115,150,Male,53,Furniture,1072,3,557.37,19-02-2023,New York,Mobile Payment,1672.11
+INV2116,138,Female,25,Grocery,1077,7,641.9,31-03-2023,Los Angeles,Credit Card,4493.3
+INV2117,108,Male,23,Electronics,1041,6,490.99,26-09-2023,Houston,Mobile Payment,2945.94
+INV2118,233,Female,45,Clothing,1012,4,461.39,16-06-2023,Los Angeles,Credit Card,1845.56
+INV2119,146,Female,61,Electronics,1026,4,177.91,27-03-2023,Los Angeles,Mobile Payment,711.64
+INV2120,168,Male,22,Grocery,1007,7,177.26,20-06-2023,Phoenix,Credit Card,1240.82
+INV2121,145,Female,29,Electronics,1091,3,324.32,29-12-2023,Los Angeles,Cash,972.96
+INV2122,277,Female,22,Clothing,1026,5,127.64,19-09-2023,New York,Cash,638.2
+INV2123,231,Male,26,Clothing,1068,4,20.31,04-02-2023,New York,Debit Card,81.24
+INV2124,246,Female,35,Electronics,1029,1,570.1,30-09-2023,Phoenix,Credit Card,570.1
+INV2125,144,Male,36,Electronics,1023,5,73.15,02-12-2023,Chicago,Credit Card,365.75
+INV2126,267,Male,32,Electronics,1010,6,230.44,31-01-2023,New York,Credit Card,1382.64
+INV2127,117,Male,60,Electronics,1028,3,314.47,24-09-2023,New York,Credit Card,943.41
+INV2128,284,Female,61,Toys,1038,4,354.6,30-07-2023,New York,Credit Card,1418.4
+INV2129,189,Male,56,Clothing,1049,3,298,30-09-2023,Los Angeles,Cash,894
+INV2130,160,Male,60,Clothing,1093,2,493.17,18-10-2023,Phoenix,Mobile Payment,986.34
+INV2131,179,Female,56,Electronics,1037,4,505.91,23-04-2023,New York,Mobile Payment,2023.64
+INV2132,115,Female,55,Clothing,1006,1,392.59,12-05-2023,New York,Debit Card,392.59
+INV2133,248,Male,43,Clothing,1086,7,573.99,12-09-2023,New York,Credit Card,4017.93
+INV2134,195,Female,39,Electronics,1039,6,563.77,15-10-2023,New York,Debit Card,3382.62
+INV2135,283,Female,56,Furniture,1027,3,99.42,10-07-2023,New York,Credit Card,298.26
+INV2136,182,Female,61,Electronics,1070,4,787.94,22-10-2023,Los Angeles,Mobile Payment,3151.76
+INV2137,162,Female,47,Clothing,1093,3,236.55,21-07-2023,Houston,Credit Card,709.65
+INV2138,169,Male,42,Electronics,1026,3,227.7,20-01-2023,Los Angeles,Credit Card,683.1
+INV2139,128,Male,61,Electronics,1065,3,632.16,28-02-2023,Chicago,Credit Card,1896.48
+INV2140,256,Male,61,Grocery,1010,4,406.82,11-04-2023,New York,Credit Card,1627.28
+INV2141,226,Male,23,Electronics,1093,8,314.2,02-02-2023,New York,Debit Card,2513.6
+INV2142,266,Male,39,Furniture,1056,3,146.29,05-06-2023,Los Angeles,Credit Card,438.87
+INV2143,264,Female,63,Clothing,1056,4,407.61,16-10-2023,New York,Credit Card,1630.44
+INV2144,179,Male,51,Furniture,1049,4,246.41,18-03-2023,New York,Mobile Payment,985.64
+INV2145,136,Female,30,Clothing,1007,6,693.05,26-07-2023,Houston,Cash,4158.3
+INV2146,100,Male,51,Electronics,1011,5,81.01,04-09-2023,Chicago,Cash,405.05
+INV2147,205,Female,49,Electronics,1030,6,652.44,03-08-2023,Houston,Credit Card,3914.64
+INV2148,285,Female,43,Electronics,1058,3,597.41,09-11-2023,Los Angeles,Cash,1792.23
+INV2149,110,Male,21,Grocery,1030,4,38.43,27-09-2023,Chicago,Credit Card,153.72
+INV2150,213,Female,48,Electronics,1037,6,332.99,03-03-2023,New York,Debit Card,1997.94
+INV2151,158,Male,31,Furniture,1045,3,626.16,09-01-2023,Los Angeles,Cash,1878.48
+INV2152,231,Male,58,Clothing,1041,5,330.69,18-03-2023,Phoenix,Credit Card,1653.45
+INV2153,128,Female,43,Furniture,1088,6,757.72,01-12-2023,New York,Cash,4546.32
+INV2154,295,Male,42,Furniture,1010,3,489.56,08-01-2023,Los Angeles,Mobile Payment,1468.68
+INV2155,295,Female,35,Electronics,1043,3,570.1,17-07-2023,New York,Mobile Payment,1710.3
+INV2156,285,Female,46,Clothing,1052,3,37.94,29-03-2023,Phoenix,Credit Card,113.82
+INV2157,283,Male,48,Toys,1087,4,751.83,26-02-2023,Houston,Credit Card,3007.32
+INV2158,104,Male,26,Clothing,1027,4,527.14,10-08-2023,Chicago,Mobile Payment,2108.56
+INV2159,201,Female,26,Electronics,1037,3,630.61,07-07-2023,Houston,Cash,1891.83
+INV2160,139,Female,44,Clothing,1034,4,336.15,24-03-2023,Phoenix,Credit Card,1344.6
+INV2161,101,Female,36,Grocery,1029,3,84.49,31-03-2023,Phoenix,Credit Card,253.47
+INV2162,103,Male,51,Grocery,1077,7,713.83,23-03-2023,Phoenix,Mobile Payment,4996.81
+INV2163,172,Male,63,Clothing,1001,5,424.35,12-12-2023,Los Angeles,Mobile Payment,2121.75
+INV2164,106,Male,29,Grocery,1080,4,467.05,15-08-2023,Los Angeles,Credit Card,1868.2
+INV2165,140,Male,22,Furniture,1074,7,282.27,13-09-2023,New York,Mobile Payment,1975.89
+INV2166,256,Male,53,Furniture,1076,8,543.79,01-06-2023,New York,Mobile Payment,4350.32
+INV2167,280,Male,62,Clothing,1054,6,205.19,17-08-2023,Houston,Cash,1231.14
+INV2168,236,Female,43,Clothing,1077,2,317.09,31-12-2023,New York,Mobile Payment,634.18
+INV2169,245,Female,53,Clothing,1031,5,416.94,13-10-2023,New York,Debit Card,2084.7
+INV2170,124,Female,23,Grocery,1031,3,279.16,17-08-2023,Los Angeles,Mobile Payment,837.48
+INV2171,179,Female,22,Grocery,1032,6,259.99,23-11-2023,Los Angeles,Debit Card,1559.94
+INV2172,289,Male,51,Furniture,1086,8,222.43,11-06-2023,Chicago,Credit Card,1779.44
+INV2173,296,Female,56,Electronics,1094,6,197.76,15-02-2023,Houston,Cash,1186.56
+INV2174,187,Female,23,Clothing,1066,5,365.24,10-06-2023,New York,Credit Card,1826.2
+INV2175,211,Female,37,Electronics,1062,5,703.11,20-05-2023,New York,Cash,3515.55
+INV2176,194,Female,33,Toys,1094,2,384.89,25-03-2023,Los Angeles,Mobile Payment,769.78
+INV2177,122,Female,34,Electronics,1005,3,157.97,12-08-2023,Los Angeles,Credit Card,473.91
+INV2178,132,Female,49,Grocery,1034,4,720.81,08-12-2023,New York,Credit Card,2883.24
+INV2179,151,Female,39,Clothing,1076,5,27.53,01-10-2023,Houston,Cash,137.65
+INV2180,295,Female,61,Clothing,1020,3,432.95,03-06-2023,New York,Credit Card,1298.85
+INV2181,162,Male,47,Electronics,1080,3,340.9,04-10-2023,Los Angeles,Credit Card,1022.7
+INV2182,299,Male,48,Toys,1077,1,239.45,30-10-2023,New York,Mobile Payment,239.45
+INV2183,174,Male,40,Clothing,1052,3,756.08,14-10-2023,New York,Credit Card,2268.24
+INV2184,247,Male,52,Furniture,1021,5,554.54,31-07-2023,New York,Mobile Payment,2772.7
+INV2185,268,Female,27,Electronics,1030,4,121.22,19-08-2023,New York,Mobile Payment,484.88
+INV2186,173,Male,63,Electronics,1096,4,697.92,11-12-2023,New York,Credit Card,2791.68
+INV2187,225,Male,18,Grocery,1059,2,116.81,11-02-2023,Chicago,Debit Card,233.62
+INV2188,115,Female,47,Electronics,1066,4,678.18,17-04-2023,Chicago,Debit Card,2712.72
+INV2189,228,Male,33,Clothing,1030,5,116.68,23-02-2023,Houston,Credit Card,583.4
+INV2190,286,Female,46,Electronics,1011,3,284.13,21-05-2023,Houston,Cash,852.39
+INV2191,230,Female,61,Electronics,1033,8,76.28,30-10-2023,Phoenix,Mobile Payment,610.24
+INV2192,264,Male,34,Clothing,1068,5,646.36,02-09-2023,New York,Cash,3231.8
+INV2193,163,Female,52,Grocery,1013,2,442.52,26-12-2023,Houston,Debit Card,885.04
+INV2194,146,Male,51,Furniture,1068,5,659.2,26-07-2023,New York,Credit Card,3296
+INV2195,245,Female,33,Grocery,1057,6,331.85,25-05-2023,Chicago,Mobile Payment,1991.1
+INV2196,206,Male,32,Clothing,1045,4,611.08,21-10-2023,Phoenix,Credit Card,2444.32
+INV2197,249,Female,43,Toys,1040,4,208.35,27-01-2023,Los Angeles,Credit Card,833.4
+INV2198,174,Male,34,Clothing,1060,4,502.61,27-01-2023,Houston,Debit Card,2010.44
+INV2199,260,Male,41,Grocery,1088,3,765.7,02-12-2023,Los Angeles,Credit Card,2297.1
+INV2200,298,Female,54,Electronics,1005,5,290.46,23-10-2023,Houston,Credit Card,1452.3
+INV2201,231,Female,40,Clothing,1037,4,424,25-09-2023,New York,Debit Card,1696
+INV2202,135,Female,44,Clothing,1095,4,427.29,28-07-2023,Los Angeles,Cash,1709.16
+INV2203,219,Male,32,Furniture,1086,4,54.96,01-05-2023,Chicago,Credit Card,219.84
+INV2204,145,Male,60,Electronics,1075,5,756.04,22-04-2023,New York,Cash,3780.2
+INV2205,249,Male,40,Electronics,1014,2,453.21,29-11-2023,New York,Mobile Payment,906.42
+INV2206,220,Female,37,Clothing,1051,3,694.95,04-08-2023,Chicago,Cash,2084.85
+INV2207,288,Male,40,Electronics,1057,7,575.17,05-10-2023,New York,Mobile Payment,4026.19
+INV2208,246,Male,26,Grocery,1038,3,44,26-09-2023,Los Angeles,Cash,132
+INV2209,162,Male,50,Grocery,1069,6,388.46,28-11-2023,New York,Cash,2330.76
+INV2210,296,Male,36,Furniture,1063,2,109.9,03-05-2023,Chicago,Credit Card,219.8
+INV2211,151,Male,63,Clothing,1004,2,747.84,01-05-2023,New York,Debit Card,1495.68
+INV2212,111,Male,31,Electronics,1027,3,325.89,23-05-2023,Los Angeles,Mobile Payment,977.67
+INV2213,208,Female,56,Clothing,1036,1,686.14,22-03-2023,Phoenix,Mobile Payment,686.14
+INV2214,217,Female,43,Clothing,1091,7,64.78,19-12-2023,Phoenix,Credit Card,453.46
+INV2215,211,Female,41,Toys,1086,4,460.91,22-05-2023,New York,Cash,1843.64
+INV2216,136,Male,57,Grocery,1006,6,474.98,10-12-2023,New York,Credit Card,2849.88
+INV2217,271,Male,33,Clothing,1026,4,727.94,31-10-2023,New York,Cash,2911.76
+INV2218,188,Female,59,Clothing,1070,3,404.29,30-08-2023,New York,Debit Card,1212.87
+INV2219,125,Male,41,Clothing,1066,2,270.17,20-01-2023,Phoenix,Cash,540.34
+INV2220,250,Male,22,Clothing,1087,7,726.69,03-10-2023,Chicago,Debit Card,5086.83
+INV2221,172,Male,24,Toys,1080,7,17.05,18-07-2023,New York,Debit Card,119.35
+INV2222,152,Male,40,Toys,1092,3,81.94,27-11-2023,Phoenix,Credit Card,245.82
+INV2223,209,Female,45,Grocery,1017,4,750.72,05-09-2023,Phoenix,Mobile Payment,3002.88
+INV2224,172,Male,20,Grocery,1087,1,757.47,13-12-2023,Chicago,Debit Card,757.47
+INV2225,214,Female,20,Grocery,1092,3,673.8,23-05-2023,Los Angeles,Credit Card,2021.4
+INV2226,186,Female,46,Clothing,1070,4,536.73,29-07-2023,Houston,Cash,2146.92
+INV2227,240,Male,41,Electronics,1034,2,751.37,17-03-2023,Phoenix,Credit Card,1502.74
+INV2228,234,Male,30,Toys,1018,2,601.36,09-06-2023,Los Angeles,Credit Card,1202.72
+INV2229,292,Female,59,Electronics,1036,3,781.78,20-01-2023,Chicago,Credit Card,2345.34
+INV2230,289,Female,41,Clothing,1063,4,717.36,29-04-2023,Los Angeles,Debit Card,2869.44
+INV2231,262,Female,39,Grocery,1089,2,310.83,15-09-2023,Chicago,Mobile Payment,621.66
+INV2232,162,Male,42,Toys,1036,6,394.25,16-12-2023,Los Angeles,Credit Card,2365.5
+INV2233,110,Male,47,Grocery,1044,5,209.52,30-12-2023,Phoenix,Cash,1047.6
+INV2234,255,Female,32,Electronics,1082,2,670.67,14-11-2023,New York,Credit Card,1341.34
+INV2235,243,Male,20,Toys,1067,1,160.31,09-12-2023,New York,Mobile Payment,160.31
+INV2236,158,Male,21,Electronics,1015,5,163.69,28-08-2023,New York,Cash,818.45
+INV2237,296,Male,50,Clothing,1061,3,15.69,14-11-2023,Los Angeles,Credit Card,47.07
+INV2238,278,Male,32,Grocery,1007,7,347.9,12-04-2023,Houston,Credit Card,2435.3
+INV2239,236,Male,18,Grocery,1075,4,434.28,29-05-2023,New York,Cash,1737.12
+INV2240,224,Male,54,Electronics,1007,2,629.44,28-04-2023,Los Angeles,Credit Card,1258.88
+INV2241,195,Male,18,Furniture,1090,2,720.49,03-07-2023,Houston,Credit Card,1440.98
+INV2242,125,Female,51,Electronics,1089,7,724.23,13-11-2023,Los Angeles,Credit Card,5069.61
+INV2243,236,Female,39,Clothing,1001,2,569.39,21-12-2023,New York,Mobile Payment,1138.78
+INV2244,108,Male,21,Toys,1087,4,547.97,24-08-2023,New York,Mobile Payment,2191.88
+INV2245,110,Male,63,Grocery,1016,3,658.14,30-07-2023,New York,Mobile Payment,1974.42
+INV2246,199,Male,41,Furniture,1056,5,604.8,01-04-2023,New York,Mobile Payment,3024
+INV2247,150,Male,47,Furniture,1074,8,89.29,23-02-2023,New York,Mobile Payment,714.32
+INV2248,125,Male,22,Clothing,1006,6,339.01,11-10-2023,New York,Credit Card,2034.06
+INV2249,189,Male,40,Electronics,1079,4,598.5,04-08-2023,Chicago,Credit Card,2394
+INV2250,225,Male,60,Grocery,1009,3,272.11,20-02-2023,Phoenix,Credit Card,816.33
+INV2251,116,Male,62,Grocery,1064,6,118.37,30-12-2023,Chicago,Credit Card,710.22
+INV2252,122,Male,48,Grocery,1055,2,357.28,26-12-2023,Houston,Credit Card,714.56
+INV2253,140,Male,30,Electronics,1091,3,530.65,21-02-2023,Chicago,Mobile Payment,1591.95
+INV2254,130,Female,54,Clothing,1038,2,591.78,10-08-2023,Chicago,Credit Card,1183.56
+INV2255,222,Female,19,Clothing,1093,3,486.36,15-09-2023,Houston,Credit Card,1459.08
+INV2256,128,Female,40,Furniture,1073,6,170.15,31-08-2023,New York,Cash,1020.9
+INV2257,243,Male,46,Clothing,1010,2,623.03,07-10-2023,Los Angeles,Credit Card,1246.06
+INV2258,197,Female,45,Furniture,1052,2,102.46,07-02-2023,New York,Mobile Payment,204.92
+INV2259,258,Female,25,Electronics,1035,4,302.17,18-05-2023,New York,Cash,1208.68
+INV2260,222,Female,44,Furniture,1032,4,200.79,24-04-2023,Chicago,Mobile Payment,803.16
+INV2261,251,Female,38,Grocery,1023,5,380.46,03-10-2023,Phoenix,Cash,1902.3
+INV2262,285,Male,18,Toys,1075,2,572.67,22-03-2023,Los Angeles,Credit Card,1145.34
+INV2263,294,Female,57,Electronics,1080,2,104.43,08-03-2023,Houston,Cash,208.86
+INV2264,183,Female,52,Clothing,1039,4,573.39,29-04-2023,Houston,Cash,2293.56
+INV2265,169,Female,53,Clothing,1091,5,511.91,12-04-2023,Houston,Credit Card,2559.55
+INV2266,275,Male,48,Electronics,1011,6,642.42,31-01-2023,Los Angeles,Credit Card,3854.52
+INV2267,169,Male,52,Clothing,1015,4,47.18,07-09-2023,New York,Mobile Payment,188.72
+INV2268,171,Male,36,Clothing,1046,6,380.59,15-10-2023,Houston,Credit Card,2283.54
+INV2269,254,Male,22,Electronics,1015,3,461.38,20-11-2023,New York,Credit Card,1384.14
+INV2270,235,Female,41,Furniture,1000,5,16.66,12-05-2023,Houston,Credit Card,83.3
+INV2271,219,Male,58,Toys,1082,2,585.83,18-03-2023,Los Angeles,Credit Card,1171.66
+INV2272,139,Female,61,Electronics,1059,6,448.49,08-07-2023,Los Angeles,Credit Card,2690.94
+INV2273,187,Female,51,Toys,1054,3,398.26,16-04-2023,Houston,Credit Card,1194.78
+INV2274,148,Female,38,Electronics,1030,3,168.39,29-10-2023,Phoenix,Mobile Payment,505.17
+INV2275,261,Male,35,Clothing,1019,7,88.52,06-07-2023,Los Angeles,Mobile Payment,619.64
+INV2276,270,Female,46,Electronics,1062,3,320.64,24-08-2023,New York,Mobile Payment,961.92
+INV2277,285,Female,35,Toys,1066,2,91.45,08-10-2023,Los Angeles,Debit Card,182.9
+INV2278,283,Male,39,Toys,1004,2,429.3,01-01-2023,New York,Mobile Payment,858.6
+INV2279,224,Female,18,Grocery,1020,8,246.21,28-02-2023,Houston,Credit Card,1969.68
+INV2280,163,Male,28,Toys,1055,4,254.07,16-06-2023,Houston,Cash,1016.28
+INV2281,163,Female,37,Grocery,1078,5,582.49,13-09-2023,Los Angeles,Cash,2912.45
+INV2282,166,Male,62,Grocery,1007,8,473.99,16-01-2023,Los Angeles,Cash,3791.92
+INV2283,262,Male,18,Grocery,1067,4,233.59,05-01-2023,Houston,Mobile Payment,934.36
+INV2284,111,Female,41,Clothing,1092,3,124.91,04-04-2023,Los Angeles,Cash,374.73
+INV2285,152,Male,28,Electronics,1087,2,55.15,01-01-2023,Chicago,Mobile Payment,110.3
+INV2286,197,Female,23,Electronics,1089,3,387.24,15-05-2023,New York,Credit Card,1161.72
+INV2287,229,Female,60,Electronics,1041,5,46.79,04-06-2023,Los Angeles,Mobile Payment,233.95
+INV2288,190,Female,31,Toys,1039,4,189.84,16-10-2023,Phoenix,Cash,759.36
+INV2289,244,Female,38,Clothing,1083,8,470.13,31-07-2023,New York,Credit Card,3761.04
+INV2290,176,Female,47,Furniture,1093,5,658.55,10-08-2023,Los Angeles,Credit Card,3292.75
+INV2291,276,Male,39,Grocery,1090,2,567.71,14-07-2023,Phoenix,Credit Card,1135.42
+INV2292,146,Female,35,Clothing,1075,3,352.11,04-05-2023,Houston,Credit Card,1056.33
+INV2293,261,Male,19,Clothing,1024,3,561.72,17-01-2023,New York,Mobile Payment,1685.16
+INV2294,284,Male,26,Clothing,1062,6,597.49,03-03-2023,New York,Credit Card,3584.94
+INV2295,104,Male,26,Furniture,1047,4,249.89,08-11-2023,New York,Cash,999.56
+INV2296,231,Male,62,Grocery,1078,5,330.1,04-10-2023,Los Angeles,Cash,1650.5
+INV2297,183,Male,22,Toys,1035,4,540.94,22-02-2023,New York,Cash,2163.76
+INV2298,274,Female,24,Electronics,1078,2,188.83,13-08-2023,Houston,Credit Card,377.66
+INV2299,204,Female,22,Clothing,1033,9,750.52,20-10-2023,Los Angeles,Debit Card,6754.68
+INV2300,192,Male,44,Furniture,1041,3,89.1,04-07-2023,Los Angeles,Cash,267.3
+INV2301,103,Female,31,Furniture,1003,3,18.33,15-11-2023,Phoenix,Debit Card,54.99
+INV2302,280,Female,64,Toys,1065,4,592.24,18-03-2023,New York,Credit Card,2368.96
+INV2303,295,Male,25,Grocery,1034,3,502.95,03-11-2023,Houston,Credit Card,1508.85
+INV2304,282,Male,24,Electronics,1049,3,213.83,04-02-2023,Los Angeles,Debit Card,641.49
+INV2305,262,Male,27,Grocery,1051,1,57.31,29-09-2023,Houston,Cash,57.31
+INV2306,265,Male,33,Furniture,1034,5,345.79,20-10-2023,Houston,Mobile Payment,1728.95
+INV2307,254,Male,44,Grocery,1026,2,299.32,17-06-2023,Chicago,Mobile Payment,598.64
+INV2308,209,Male,25,Toys,1010,3,115.18,11-12-2023,Phoenix,Credit Card,345.54
+INV2309,125,Female,36,Toys,1094,4,615.69,21-01-2023,Houston,Credit Card,2462.76
+INV2310,253,Female,61,Electronics,1051,1,744.19,05-12-2023,Phoenix,Credit Card,744.19
+INV2311,264,Male,43,Grocery,1021,5,741.49,27-08-2023,Chicago,Cash,3707.45
+INV2312,139,Male,57,Clothing,1095,4,351.31,06-10-2023,Phoenix,Credit Card,1405.24
+INV2313,154,Male,62,Clothing,1041,5,293.72,24-06-2023,Chicago,Mobile Payment,1468.6
+INV2314,104,Female,18,Electronics,1030,5,756.44,30-01-2023,Houston,Credit Card,3782.2
+INV2315,134,Male,58,Electronics,1066,4,769.95,29-10-2023,Chicago,Credit Card,3079.8
+INV2316,191,Female,33,Grocery,1084,7,201.3,15-10-2023,Los Angeles,Debit Card,1409.1
+INV2317,142,Male,30,Grocery,1071,6,82.57,30-08-2023,New York,Credit Card,495.42
+INV2318,156,Female,43,Clothing,1069,2,607.66,13-10-2023,Chicago,Mobile Payment,1215.32
+INV2319,237,Male,34,Grocery,1076,4,359.83,25-09-2023,Houston,Mobile Payment,1439.32
+INV2320,111,Male,30,Electronics,1059,4,182.25,15-01-2023,Houston,Cash,729
+INV2321,154,Female,49,Clothing,1085,6,186.09,19-07-2023,Los Angeles,Credit Card,1116.54
+INV2322,218,Female,43,Grocery,1004,7,368.21,26-06-2023,New York,Debit Card,2577.47
+INV2323,110,Female,38,Grocery,1028,6,628.98,08-09-2023,Houston,Credit Card,3773.88
+INV2324,227,Male,23,Grocery,1076,2,753.11,21-05-2023,Chicago,Mobile Payment,1506.22
+INV2325,272,Female,63,Electronics,1007,2,197.56,23-08-2023,New York,Mobile Payment,395.12
+INV2326,148,Male,20,Electronics,1057,4,124.13,20-07-2023,New York,Cash,496.52
+INV2327,161,Female,23,Grocery,1004,4,264.71,19-05-2023,Los Angeles,Mobile Payment,1058.84
+INV2328,217,Male,61,Grocery,1048,8,494.01,20-01-2023,Los Angeles,Mobile Payment,3952.08
+INV2329,159,Female,29,Toys,1057,3,43.57,25-09-2023,Houston,Credit Card,130.71
+INV2330,178,Female,48,Clothing,1044,4,567.88,26-02-2023,New York,Cash,2271.52
+INV2331,175,Male,63,Grocery,1059,6,765.31,16-09-2023,Los Angeles,Credit Card,4591.86
+INV2332,114,Male,51,Grocery,1084,3,509.69,19-06-2023,New York,Credit Card,1529.07
+INV2333,280,Female,50,Electronics,1092,4,301.32,22-11-2023,New York,Credit Card,1205.28
+INV2334,256,Male,28,Clothing,1094,5,539.96,05-04-2023,Phoenix,Mobile Payment,2699.8
+INV2335,123,Female,21,Toys,1087,3,668.51,10-01-2023,Chicago,Cash,2005.53
+INV2336,245,Female,62,Electronics,1019,3,313.79,16-02-2023,Houston,Mobile Payment,941.37
+INV2337,202,Female,61,Furniture,1082,4,554.68,01-01-2023,Phoenix,Credit Card,2218.72
+INV2338,117,Male,38,Furniture,1036,4,272.92,14-09-2023,Houston,Cash,1091.68
+INV2339,207,Female,41,Furniture,1095,2,642.35,23-08-2023,Houston,Mobile Payment,1284.7
+INV2340,156,Female,47,Electronics,1001,6,692.06,10-07-2023,Los Angeles,Mobile Payment,4152.36
+INV2341,222,Female,25,Electronics,1019,3,253.04,31-12-2023,New York,Credit Card,759.12
+INV2342,227,Male,38,Electronics,1036,3,397.72,21-05-2023,Los Angeles,Debit Card,1193.16
+INV2343,208,Male,52,Electronics,1000,3,500.59,25-01-2023,New York,Credit Card,1501.77
+INV2344,172,Male,56,Furniture,1063,3,711.7,22-03-2023,Los Angeles,Mobile Payment,2135.1
+INV2345,224,Male,35,Electronics,1055,7,498.16,08-11-2023,New York,Credit Card,3487.12
+INV2346,192,Female,35,Grocery,1066,3,326.84,18-02-2023,Chicago,Credit Card,980.52
+INV2347,153,Male,22,Grocery,1053,7,637.38,25-04-2023,Houston,Credit Card,4461.66
+INV2348,230,Male,41,Clothing,1079,5,248.2,20-07-2023,Chicago,Credit Card,1241
+INV2349,194,Female,41,Electronics,1031,6,100.84,29-10-2023,Houston,Cash,605.04
+INV2350,126,Male,50,Clothing,1017,2,729.48,02-09-2023,New York,Debit Card,1458.96
+INV2351,208,Male,58,Electronics,1098,4,511.19,08-11-2023,Phoenix,Credit Card,2044.76
+INV2352,237,Female,48,Furniture,1013,2,115.22,03-06-2023,Chicago,Credit Card,230.44
+INV2353,281,Female,50,Furniture,1014,7,315.3,28-02-2023,New York,Debit Card,2207.1
+INV2354,150,Female,39,Clothing,1095,2,479.17,10-11-2023,Los Angeles,Cash,958.34
+INV2355,167,Male,26,Clothing,1054,4,548.31,10-08-2023,Los Angeles,Mobile Payment,2193.24
+INV2356,298,Male,56,Grocery,1017,2,676.23,01-05-2023,Los Angeles,Mobile Payment,1352.46
+INV2357,293,Male,35,Clothing,1013,5,428.02,10-11-2023,New York,Debit Card,2140.1
+INV2358,210,Female,41,Grocery,1040,2,290.1,02-01-2023,Phoenix,Credit Card,580.2
+INV2359,137,Female,29,Electronics,1047,4,217.29,08-04-2023,Los Angeles,Credit Card,869.16
+INV2360,125,Male,40,Electronics,1001,3,761.06,16-01-2023,Houston,Cash,2283.18
+INV2361,104,Female,48,Clothing,1056,6,218.87,21-10-2023,Chicago,Credit Card,1313.22
+INV2362,187,Male,47,Electronics,1038,3,734.41,01-10-2023,New York,Credit Card,2203.23
+INV2363,176,Male,20,Electronics,1069,4,720.61,18-12-2023,New York,Credit Card,2882.44
+INV2364,148,Male,61,Toys,1051,3,387.3,20-01-2023,New York,Credit Card,1161.9
+INV2365,274,Female,46,Clothing,1008,2,246.79,23-03-2023,New York,Credit Card,493.58
+INV2366,263,Female,49,Electronics,1036,2,279.68,07-01-2023,Chicago,Credit Card,559.36
+INV2367,166,Male,34,Clothing,1004,6,435.03,30-09-2023,New York,Cash,2610.18
+INV2368,165,Male,39,Electronics,1055,6,650.06,05-11-2023,New York,Credit Card,3900.36
+INV2369,182,Male,49,Electronics,1081,5,473.99,01-10-2023,Los Angeles,Credit Card,2369.95
+INV2370,199,Female,27,Grocery,1003,4,420.91,30-03-2023,Chicago,Debit Card,1683.64
+INV2371,177,Male,59,Electronics,1062,3,513.34,07-12-2023,New York,Credit Card,1540.02
+INV2372,127,Male,50,Clothing,1095,6,615.11,09-11-2023,Los Angeles,Credit Card,3690.66
+INV2373,120,Male,29,Clothing,1023,2,280.95,18-01-2023,Phoenix,Cash,561.9
+INV2374,146,Female,51,Electronics,1007,5,790.42,17-04-2023,Phoenix,Mobile Payment,3952.1
+INV2375,161,Female,28,Furniture,1090,5,18.78,15-09-2023,Los Angeles,Cash,93.9
+INV2376,214,Female,57,Clothing,1014,4,204.78,05-08-2023,Los Angeles,Cash,819.12
+INV2377,240,Female,62,Clothing,1020,4,152.95,30-10-2023,Houston,Credit Card,611.8
+INV2378,158,Female,54,Furniture,1001,4,532.86,14-02-2023,New York,Credit Card,2131.44
+INV2379,150,Female,28,Toys,1022,2,608.56,26-08-2023,New York,Credit Card,1217.12
+INV2380,276,Male,51,Electronics,1085,5,682.77,07-11-2023,New York,Cash,3413.85
+INV2381,198,Male,51,Electronics,1020,3,598.93,21-06-2023,Houston,Cash,1796.79
+INV2382,151,Male,30,Clothing,1044,4,344.51,12-12-2023,Houston,Credit Card,1378.04
+INV2383,160,Male,56,Clothing,1028,3,421.28,19-06-2023,New York,Mobile Payment,1263.84
+INV2384,206,Female,25,Clothing,1002,3,542.35,09-08-2023,New York,Credit Card,1627.05
+INV2385,182,Female,47,Grocery,1076,2,634.37,27-03-2023,Chicago,Credit Card,1268.74
+INV2386,124,Male,58,Clothing,1057,4,496.42,15-09-2023,Los Angeles,Debit Card,1985.68
+INV2387,134,Male,29,Clothing,1029,1,297.5,22-06-2023,New York,Mobile Payment,297.5
+INV2388,165,Female,36,Furniture,1002,2,686.84,06-05-2023,New York,Credit Card,1373.68
+INV2389,204,Female,31,Furniture,1064,5,565.98,20-06-2023,Los Angeles,Credit Card,2829.9
+INV2390,166,Female,35,Toys,1020,3,583.55,27-03-2023,Houston,Credit Card,1750.65
+INV2391,219,Male,20,Electronics,1085,4,155.93,13-03-2023,Chicago,Cash,623.72
+INV2392,233,Male,39,Clothing,1064,4,383.38,05-03-2023,Los Angeles,Cash,1533.52
+INV2393,137,Female,62,Electronics,1031,3,251.37,06-04-2023,Houston,Credit Card,754.11
+INV2394,237,Female,18,Electronics,1026,5,267.86,06-07-2023,Los Angeles,Cash,1339.3
+INV2395,276,Male,27,Electronics,1014,9,490.29,16-02-2023,New York,Credit Card,4412.61
+INV2396,114,Male,23,Electronics,1062,2,792.9,02-12-2023,Phoenix,Mobile Payment,1585.8
+INV2397,147,Female,48,Clothing,1084,4,89.79,10-04-2023,Phoenix,Credit Card,359.16
+INV2398,250,Female,23,Grocery,1043,5,418.69,03-02-2023,Los Angeles,Cash,2093.45
+INV2399,279,Female,31,Clothing,1069,6,257.63,04-02-2023,Los Angeles,Mobile Payment,1545.78
+INV2400,236,Male,48,Electronics,1028,1,164.94,07-01-2023,New York,Mobile Payment,164.94
+INV2401,263,Male,45,Clothing,1037,2,529.94,20-07-2023,New York,Cash,1059.88
+INV2402,181,Female,35,Clothing,1077,3,502.42,28-12-2023,Los Angeles,Cash,1507.26
+INV2403,290,Male,29,Electronics,1047,2,171.84,11-02-2023,Los Angeles,Debit Card,343.68
+INV2404,277,Male,32,Clothing,1069,5,549.87,11-05-2023,Los Angeles,Cash,2749.35
+INV2405,256,Female,26,Electronics,1056,5,725.54,16-08-2023,Los Angeles,Credit Card,3627.7
+INV2406,103,Female,27,Electronics,1067,7,199.07,29-03-2023,Chicago,Cash,1393.49
+INV2407,115,Female,33,Electronics,1060,6,220.75,06-03-2023,Los Angeles,Cash,1324.5
+INV2408,202,Male,49,Clothing,1027,4,190.94,25-02-2023,New York,Cash,763.76
+INV2409,144,Male,53,Clothing,1089,3,544.72,01-10-2023,Los Angeles,Credit Card,1634.16
+INV2410,205,Male,38,Furniture,1026,4,582.82,10-08-2023,New York,Mobile Payment,2331.28
+INV2411,110,Female,25,Grocery,1034,3,629.97,10-12-2023,New York,Credit Card,1889.91
+INV2412,231,Male,52,Furniture,1098,3,710.8,04-05-2023,New York,Cash,2132.4
+INV2413,287,Male,32,Grocery,1068,5,127.33,20-03-2023,Los Angeles,Cash,636.65
+INV2414,263,Female,38,Electronics,1012,5,185.02,21-09-2023,Phoenix,Cash,925.1
+INV2415,281,Female,19,Furniture,1057,2,538.6,26-11-2023,Houston,Mobile Payment,1077.2
+INV2416,225,Male,38,Electronics,1050,4,432.02,17-01-2023,New York,Credit Card,1728.08
+INV2417,178,Female,39,Toys,1075,6,355.3,05-09-2023,Los Angeles,Mobile Payment,2131.8
+INV2418,184,Female,43,Clothing,1080,5,658.5,21-08-2023,Houston,Credit Card,3292.5
+INV2419,119,Female,58,Furniture,1001,7,323.18,30-11-2023,Houston,Mobile Payment,2262.26
+INV2420,295,Male,26,Furniture,1034,4,596.24,19-08-2023,New York,Cash,2384.96
+INV2421,101,Male,50,Grocery,1064,4,527.72,29-11-2023,Chicago,Credit Card,2110.88
+INV2422,118,Male,61,Clothing,1073,1,501.68,01-12-2023,Houston,Credit Card,501.68
+INV2423,271,Male,44,Clothing,1010,3,759.87,08-12-2023,New York,Credit Card,2279.61
+INV2424,100,Male,52,Grocery,1025,6,125.59,13-11-2023,New York,Credit Card,753.54
+INV2425,278,Male,21,Toys,1055,2,534.65,27-03-2023,New York,Credit Card,1069.3
+INV2426,164,Female,23,Clothing,1037,3,663.48,19-05-2023,New York,Credit Card,1990.44
+INV2427,125,Male,46,Clothing,1057,5,92.39,07-05-2023,Houston,Debit Card,461.95
+INV2428,263,Female,38,Clothing,1074,3,769.76,25-02-2023,Chicago,Credit Card,2309.28
+INV2429,167,Male,24,Grocery,1095,5,577.43,28-09-2023,New York,Mobile Payment,2887.15
+INV2430,159,Female,61,Electronics,1033,2,34.24,11-06-2023,New York,Credit Card,68.48
+INV2431,222,Female,59,Grocery,1039,4,245.19,14-06-2023,Phoenix,Credit Card,980.76
+INV2432,253,Female,57,Clothing,1011,3,418.34,20-05-2023,New York,Cash,1255.02
+INV2433,184,Female,27,Electronics,1064,4,99.77,17-09-2023,Los Angeles,Credit Card,399.08
+INV2434,265,Female,54,Furniture,1081,5,16.09,26-08-2023,New York,Cash,80.45
+INV2435,142,Female,60,Furniture,1023,4,641.37,12-11-2023,New York,Credit Card,2565.48
+INV2436,276,Female,63,Clothing,1098,5,593.51,25-12-2023,Phoenix,Credit Card,2967.55
+INV2437,188,Male,25,Electronics,1020,7,606.41,16-02-2023,New York,Debit Card,4244.87
+INV2438,284,Female,34,Electronics,1006,5,213.4,08-06-2023,Houston,Credit Card,1067
+INV2439,107,Male,34,Grocery,1022,7,474.44,25-12-2023,New York,Debit Card,3321.08
+INV2440,210,Male,26,Electronics,1025,7,306.75,24-07-2023,Houston,Debit Card,2147.25
+INV2441,192,Female,49,Electronics,1003,4,157.46,23-11-2023,Los Angeles,Cash,629.84
+INV2442,146,Male,32,Electronics,1074,1,772.88,31-05-2023,New York,Mobile Payment,772.88
+INV2443,217,Male,52,Grocery,1019,3,294.19,26-08-2023,Los Angeles,Credit Card,882.57
+INV2444,181,Male,64,Clothing,1089,5,175.47,25-05-2023,Chicago,Debit Card,877.35
+INV2445,135,Male,64,Electronics,1033,5,139.55,02-03-2023,New York,Cash,697.75
+INV2446,281,Male,60,Electronics,1029,3,673.89,25-05-2023,New York,Cash,2021.67
+INV2447,200,Female,19,Electronics,1096,5,541.15,06-05-2023,Los Angeles,Credit Card,2705.75
+INV2448,202,Male,51,Clothing,1094,3,222.07,22-07-2023,New York,Credit Card,666.21
+INV2449,288,Female,50,Grocery,1053,6,577.81,25-08-2023,Chicago,Cash,3466.86
+INV2450,191,Female,20,Toys,1097,3,97.29,23-11-2023,Chicago,Mobile Payment,291.87
+INV2451,258,Male,27,Electronics,1018,6,257.75,25-05-2023,Houston,Cash,1546.5
+INV2452,179,Male,54,Grocery,1016,5,432.86,09-11-2023,Houston,Cash,2164.3
+INV2453,235,Female,56,Clothing,1075,1,295.23,20-07-2023,New York,Credit Card,295.23
+INV2454,125,Female,54,Furniture,1090,4,51.49,17-04-2023,Los Angeles,Credit Card,205.96
+INV2455,248,Male,23,Toys,1059,4,209.02,23-08-2023,Houston,Credit Card,836.08
+INV2456,156,Male,58,Grocery,1002,7,158.83,08-04-2023,Chicago,Credit Card,1111.81
+INV2457,147,Male,49,Clothing,1035,3,723.43,18-11-2023,Los Angeles,Debit Card,2170.29
+INV2458,295,Male,19,Grocery,1013,6,496.16,05-12-2023,Chicago,Mobile Payment,2976.96
+INV2459,108,Male,21,Clothing,1040,2,600.8,24-06-2023,Chicago,Credit Card,1201.6
+INV2460,151,Female,19,Electronics,1039,2,747.72,20-10-2023,Houston,Credit Card,1495.44
+INV2461,188,Male,45,Toys,1044,3,132.89,09-11-2023,New York,Cash,398.67
+INV2462,106,Female,59,Grocery,1004,5,269.68,16-04-2023,Los Angeles,Debit Card,1348.4
+INV2463,114,Male,26,Grocery,1047,3,420.96,26-05-2023,New York,Cash,1262.88
+INV2464,214,Male,18,Furniture,1054,2,489.47,02-10-2023,New York,Credit Card,978.94
+INV2465,247,Male,57,Electronics,1075,1,742.07,02-11-2023,Houston,Credit Card,742.07
+INV2466,199,Male,21,Electronics,1063,5,799.74,20-11-2023,Phoenix,Credit Card,3998.7
+INV2467,195,Female,39,Electronics,1027,1,436.46,29-05-2023,Chicago,Credit Card,436.46
+INV2468,202,Male,42,Toys,1028,2,454.08,24-03-2023,Houston,Credit Card,908.16
+INV2469,243,Male,23,Clothing,1055,6,200.93,28-06-2023,Houston,Credit Card,1205.58
+INV2470,144,Male,40,Grocery,1019,3,523.6,28-11-2023,Houston,Credit Card,1570.8
+INV2471,242,Male,53,Clothing,1027,5,384.82,04-12-2023,Los Angeles,Credit Card,1924.1
+INV2472,206,Female,40,Furniture,1031,7,696.79,28-02-2023,Houston,Debit Card,4877.53
+INV2473,170,Male,19,Clothing,1015,5,766.6,17-07-2023,Los Angeles,Credit Card,3833
+INV2474,280,Male,53,Grocery,1000,4,660.36,02-05-2023,New York,Debit Card,2641.44
+INV2475,188,Female,62,Furniture,1054,6,443.26,02-02-2023,Phoenix,Mobile Payment,2659.56
+INV2476,295,Male,25,Electronics,1076,2,95.25,19-02-2023,Phoenix,Credit Card,190.5
+INV2477,231,Male,22,Grocery,1069,7,478.41,05-11-2023,Phoenix,Credit Card,3348.87
+INV2478,221,Female,24,Electronics,1067,4,208.99,23-10-2023,New York,Credit Card,835.96
+INV2479,207,Female,59,Furniture,1002,2,554.01,04-03-2023,New York,Mobile Payment,1108.02
+INV2480,167,Male,51,Grocery,1062,4,783.25,23-08-2023,Chicago,Credit Card,3133
+INV2481,244,Male,39,Clothing,1094,4,280.64,30-06-2023,Chicago,Credit Card,1122.56
+INV2482,167,Male,37,Electronics,1047,4,395.05,11-02-2023,Phoenix,Credit Card,1580.2
+INV2483,180,Female,35,Grocery,1071,3,403.79,14-10-2023,Los Angeles,Credit Card,1211.37
+INV2484,214,Male,50,Furniture,1015,4,753.54,10-03-2023,New York,Credit Card,3014.16
+INV2485,137,Male,46,Grocery,1069,2,651.96,02-10-2023,New York,Debit Card,1303.92
+INV2486,260,Male,38,Grocery,1052,8,15.77,12-10-2023,New York,Credit Card,126.16
+INV2487,248,Female,55,Grocery,1005,3,627.84,12-01-2023,Los Angeles,Debit Card,1883.52
+INV2488,164,Female,58,Furniture,1030,5,794.94,24-07-2023,Houston,Credit Card,3974.7
+INV2489,151,Female,54,Clothing,1016,3,466.41,12-08-2023,Chicago,Mobile Payment,1399.23
+INV2490,121,Female,59,Electronics,1029,3,359.78,17-01-2023,Houston,Credit Card,1079.34
+INV2491,284,Female,59,Electronics,1042,3,299.35,31-03-2023,Houston,Debit Card,898.05
+INV2492,255,Male,57,Electronics,1002,4,90.38,11-12-2023,Los Angeles,Debit Card,361.52
+INV2493,131,Female,24,Grocery,1088,4,668.95,17-08-2023,New York,Credit Card,2675.8
+INV2494,156,Female,44,Clothing,1065,2,15.32,27-07-2023,Phoenix,Mobile Payment,30.64
+INV2495,167,Female,19,Furniture,1003,4,705.6,08-07-2023,Chicago,Cash,2822.4
+INV2496,223,Female,56,Clothing,1085,1,558.72,26-12-2023,Chicago,Mobile Payment,558.72
+INV2497,282,Male,59,Toys,1028,5,64.38,10-01-2023,Houston,Credit Card,321.9
+INV2498,139,Male,54,Grocery,1066,6,329.68,28-02-2023,New York,Debit Card,1978.08
+INV2499,265,Female,29,Electronics,1031,3,161.53,01-03-2023,Chicago,Credit Card,484.59
