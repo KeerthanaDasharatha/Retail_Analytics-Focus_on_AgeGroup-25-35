@@ -45,7 +45,7 @@ matplotlib: for creating basic charts.
 
 seaborn: for advanced and visually appealing visualizations.
 
-## Data Preparation
+## Data Preparation:
 
 Converted PurchaseDate to datetime.
 
@@ -55,11 +55,11 @@ Created TotalPrice as Quantity * PricePerUnit
 
 The data is well-structured with no missing values after cleaning.
 
-## Research Problem Statement
+## Research Problem Statement:
 How does age, gender, and payment method affect consumer spending behavior in a retail setting?
 This project particularly focuses on customers aged 25–35 to identify trends in what they buy, how much they spend, and how they prefer to pay. These insights can help improve targeting, inventory management, and marketing strategies.
 
-## Key Insights
+## Key Insights:
 - Customers aged 25–35 are the biggest spenders.
   
 - Digital payment methods are preferred by this age group.
